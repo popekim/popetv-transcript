@@ -50,14 +50,13 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 * E0539. 버그를 줄이는 무식하고 간단한 습관 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0539.txt)**] [**[시청](https://youtu.be/Tr0cUGXDVis)**]
 * E0540. 유튜브 광고 수익 높이는 법과 SEO [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0540.txt)**] [**[시청](https://youtu.be/2lDutlY9qQ4)**]
 * E0541. memcpy 최적화 1, 2, 3 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0541.txt)**] [**[시청](https://youtu.be/Ox6JNQzIygg)**]
-* E0542. 테스트 방송 + 잡담 (30분 정도) [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0542.txt)**] [**[시청](https://youtu.be/wbbUy3vOfIk)**]
-* E0543. 짤린 프로그래머 더 빡치게 하는 법 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0543.txt)**] [**[시청](https://youtu.be/se1W-9W0up4)**]
-* E0544. 고객상담원에게 고맙다하지 말자 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0544.txt)**] [**[시청](https://youtu.be/UILCUgFSKbw)**]
-* E0545. string 매개변수 버그로 배우는 올바른 코딩 습관 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0545.txt)**] [**[시청](https://youtu.be/qwftk9qe9uM)**]
-* E0546. 포프TV와  POCU 아카데미 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0546.txt)**] [**[시청](https://youtu.be/heXalPkAuJ4)**]
-* E0547. 기발한 이름을 지으면 일어나는 일 (부제: 트라이의 어원) [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0547.txt)**] [**[시청](https://youtu.be/pWKTmA3zm8k)**]
-* E0548. 좋은 선생 vs 나쁜 선생 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0548.txt)**] [**[시청](https://youtu.be/oJsrWxIxuKw)**]
-* E0549. 도움 자료의 혜택을 받는 사람은 정해져 있다? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0549.txt)**] [**[시청](https://youtu.be/Acb9mnvqECQ)**]
+* E0542. 짤린 프로그래머 더 빡치게 하는 법 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0542.txt)**] [**[시청](https://youtu.be/se1W-9W0up4)**]
+* E0543. 고객상담원에게 고맙다하지 말자 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0543.txt)**] [**[시청](https://youtu.be/UILCUgFSKbw)**]
+* E0544. string 매개변수 버그로 배우는 올바른 코딩 습관 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0544.txt)**] [**[시청](https://youtu.be/qwftk9qe9uM)**]
+* E0545. 포프TV와  POCU 아카데미 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0545.txt)**] [**[시청](https://youtu.be/heXalPkAuJ4)**]
+* E0546. 기발한 이름을 지으면 일어나는 일 (부제: 트라이의 어원) [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0546.txt)**] [**[시청](https://youtu.be/pWKTmA3zm8k)**]
+* E0547. 좋은 선생 vs 나쁜 선생 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0547.txt)**] [**[시청](https://youtu.be/oJsrWxIxuKw)**]
+* E0548. 도움 자료의 혜택을 받는 사람은 정해져 있다? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0548.txt)**] [**[시청](https://youtu.be/Acb9mnvqECQ)**]
 
 ## 문단 정리만 필요한 자막
 실제 사람이 제작한 자막이지만 제대로 문단정리가 안 되어 있는 자막입니다. 조금의 사랑이 필요합니다.
