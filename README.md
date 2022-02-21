@@ -16,6 +16,47 @@
 # 공헌이 필요한 자막 목록
 ## YouTube 자동 생성 자막
 YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않은 자막입니다. 많은 사랑이 필요합니다.
+* E0297. 공동창업자를 고를 때 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0297.txt)**] [**[시청](https://youtu.be/qbtJWRH6wVQ)**]
+* E0298. 팬레터, 나의 로망, 프로그래밍 언어 제작 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0298.txt)**] [**[시청](https://youtu.be/RKuzVHVbZBs)**]
+* E0299. 버그 만드는 걸 두려워하지 마라 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0299.txt)**] [**[시청](https://youtu.be/hjE2vWa0BWY)**]
+* E0301. 나는 금수저? 흙수저? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0301.txt)**] [**[시청](https://youtu.be/gaG5LfNsBHc)**]
+* E0303. 언리얼4 개발팁 7선 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0303.txt)**] [**[시청](https://youtu.be/kRotMh5lX8I)**]
+* E0304. [보안] 범죄예방의 기초 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0304.txt)**] [**[시청](https://youtu.be/AVvBRC-ZfPg)**]
+* E0305. 이런 질문 좀 하지마요 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0305.txt)**] [**[시청](https://youtu.be/qscDsTs9gKA)**]
+* E0306. [보안] 안전한 패스워드 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0306.txt)**] [**[시청](https://youtu.be/_5bkFRwSfFQ)**]
+* E0307. PSO 최적화 (DX12) [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0307.txt)**] [**[시청](https://youtu.be/7qFHBTSyZlU)**]
+* E0309. 수도쿠 게임 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0309.txt)**] [**[시청](https://youtu.be/wZYQfYKqVjM)**]
+* E0310. 최악의 직원 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0310.txt)**] [**[시청](https://youtu.be/VCX5tPdGpmg)**]
+* E0311. 이직결정표 만들기 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0311.txt)**] [**[시청](https://youtu.be/wDzl8Gj1N0A)**]
+* E0312. [보안] HTTPS를 싸게 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0312.txt)**] [**[시청](https://youtu.be/nf6NnD7V8Eg)**]
+* E0313. 게임개발 지망생 진로상담 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0313.txt)**] [**[시청](https://youtu.be/p7i1aOuEY2g)**]
+* E0314. 닌텐도 스위치 만세 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0314.txt)**] [**[시청](https://youtu.be/_WIF7hfrDNk)**]
+* E0315. [보안] 자동 DB 암호화 기술 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0315.txt)**] [**[시청](https://youtu.be/5s5UyaXcKmI)**]
+* E0316. 재밌는 직업병 이야기 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0316.txt)**] [**[시청](https://youtu.be/x3KzaQHxoWw)**]
+* E0317. UTC 시간을 쓰자 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0317.txt)**] [**[시청](https://youtu.be/GMQNsmEHYD4)**]
+* E0318. 벤처 투자자가 원하는 것 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0318.txt)**] [**[시청](https://youtu.be/W3SmA_8-bDE)**]
+* E0319. 한국 게임컨퍼런스 발표를 하게 된 계기 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0319.txt)**] [**[시청](https://youtu.be/kdb2xtIx1k4)**]
+* E0320. JWT 토큰 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0320.txt)**] [**[시청](https://youtu.be/MUUqogMpGiA)**]
+* E0321. 불편한 진실 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0321.txt)**] [**[시청](https://youtu.be/OjZ555nqh0U)**]
+* E0322. 클라우드 개발환경 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0322.txt)**] [**[시청](https://youtu.be/T44a4pF1oCc)**]
+* E0323. 슬랙은 자마린을 안 썼다 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0323.txt)**] [**[시청](https://youtu.be/D8Zx1kCV70I)**]
+* E0324. C++ 17의 Attribute로 실수를 막자 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0324.txt)**] [**[시청](https://youtu.be/n7SfaI4sqUg)**]
+* E0325. 거지의 경제학 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0325.txt)**] [**[시청](https://youtu.be/k6fjWt5Xmz8)**]
+* E0326. 디버깅과 코드학습 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0326.txt)**] [**[시청](https://youtu.be/EDB80WZ0rQk)**]
+* E0327. 마법없는 코딩, STL, 언리얼 엔진 등 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0327.txt)**] [**[시청](https://youtu.be/SitesHL-fAY)**]
+* E0328. 대학까지 나왔는데 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0328.txt)**] [**[시청](https://youtu.be/9wQSDAvVdxQ)**]
+* E0329. 컴퓨터 관리능력도 개발자의 자질 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0329.txt)**] [**[시청](https://youtu.be/vXLwrhEPfSM)**]
+* E0330. 돈은 어떻게 벌 건가? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0330.txt)**] [**[시청](https://youtu.be/nAjSn5OaT3I)**]
+* E0331. 함수형 프로그래밍 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0331.txt)**] [**[시청](https://youtu.be/XoH9jzblxKQ)**]
+* E0332. 남의 판단을 믿는 사회 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0332.txt)**] [**[시청](https://youtu.be/lzi1TEWXxqc)**]
+* E0333. 빌드 시스템과 버전 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0333.txt)**] [**[시청](https://youtu.be/tXaOfIhgN8s)**]
+* E0334. ASP.NET Core를 쓰자 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0334.txt)**] [**[시청](https://youtu.be/0-5v1rI6ZGk)**]
+* E0335. 윈10 나이트 라이트 모드와 EyeLeo [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0335.txt)**] [**[시청](https://youtu.be/9aa1FPxhHOw)**]
+* E0336. Enum을 쓰자 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0336.txt)**] [**[시청](https://youtu.be/AVVWaRg6Q3A)**]
+* E0337. SQL vs NoSQL [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0337.txt)**] [**[시청](https://youtu.be/5llIti9VK48)**]
+* E0338. 게임직군: 테크 아티스트 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0338.txt)**] [**[시청](https://youtu.be/czfzGMJtAIo)**]
+* E0339. 회사운영 자동화 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0339.txt)**] [**[시청](https://youtu.be/xMai8B-ZfUQ)**]
+* E0340. 나는 내성적이다 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0340.txt)**] [**[시청](https://youtu.be/ujBdBg-oh3c)**]
 * E0341. 내가 존경하는 테크 회사 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0341.txt)**] [**[시청](https://youtu.be/F38DgUQo1cA)**]
 * E0342. 예 / 아니오 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0342.txt)**] [**[시청](https://youtu.be/jgh8NXGLyGs)**]
 * E0343. 불쌍한 UX 디자이너 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0343.txt)**] [**[시청](https://youtu.be/DELF8O1H5OY)**]
@@ -225,7 +266,7 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 
 ## 문단 정리만 필요한 자막
 실제 사람이 제작한 자막이지만 제대로 문단정리가 안 되어 있는 자막입니다. 조금의 사랑이 필요합니다.
-* 현재 없음
+* E0302. null이란 무엇인가? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0302.txt)**] [**[시청](https://youtu.be/N08BSA3rwhU)**]
 
 ## 작업이 끝난 자막
 작업이 끝난 자막이지만 더 이쁘게 고쳐주시면 감사합니다. ^^
