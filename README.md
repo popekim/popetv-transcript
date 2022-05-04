@@ -55,7 +55,6 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 * E0042. 회사에서 원하는 프로그래머 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0042.txt)**] [**[시청](https://youtu.be/0Il35gQMyZA)**]
 * E0043. 데이터 중심 디자인 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0043.txt)**] [**[시청](https://youtu.be/OykXe9F5IFk)**]
 * E0044. C# 하악하악~ [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0044.txt)**] [**[시청](https://youtu.be/C_FKj9lSvmM)**]
-* E0045. 번역자 되는법 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0045.txt)**] [**[시청](https://youtu.be/p-975o4VjIM)**]
 * E0046. Pair Programming 보다 나은 법 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0046.txt)**] [**[시청](https://youtu.be/ScMqFD8g3jU)**]
 * E0047. KGC 후기를 가장한 뇌물광고.. (응?) [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0047.txt)**] [**[시청](https://youtu.be/zCrMzOtM4R0)**]
 * E0048. 언리얼 엔진에서 지원하는 머테리얼 레이어 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0048.txt)**] [**[시청](https://youtu.be/MlqMUdkItcY)**]
@@ -561,6 +560,7 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 
 ## 작업이 끝난 자막
 작업이 끝난 자막이지만 더 이쁘게 고쳐주시면 감사합니다. ^^
+* E0045. 번역자 되는법 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0045.txt)**] [**[시청](https://youtu.be/p-975o4VjIM)**]
 * E0302. null이란 무엇인가? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0302.txt)**] [**[시청](https://youtu.be/N08BSA3rwhU)**]
 
 # 저작권
