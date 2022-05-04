@@ -16,6 +16,45 @@
 # 공헌이 필요한 자막 목록
 ## YouTube 자동 생성 자막
 YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않은 자막입니다. 많은 사랑이 필요합니다.
+* E0006. 영어회화 공부법 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0006.txt)**] [**[시청](https://youtu.be/CoOXdml5ny8)**]
+* E0007. 마이크로소프트 MVP [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0007.txt)**] [**[시청](https://youtu.be/7FVPdRGVZMA)**]
+* E0008. 내가 못쓰는 C++11: constexpr [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0008.txt)**] [**[시청](https://youtu.be/OlxOKdrQhO0)**]
+* E0009. 탑프로그래머라면 하드웨어 쯤은... [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0009.txt)**] [**[시청](https://youtu.be/g4sXh0NR0Dk)**]
+* E0010. 녹내장, 오디오북, 불법복제 그리고 전자책 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0010.txt)**] [**[시청](https://youtu.be/vhpCjCYNyr4)**]
+* E0011. 원화가 북미취업 케이스 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0011.txt)**] [**[시청](https://youtu.be/B7jIpD2B2nY)**]
+* E0012. 내가 쓰는 C++11: nullptr [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0012.txt)**] [**[시청](https://youtu.be/Lt8MoQ-Rz-c)**]
+* E0013. 노동법위반 게임회사 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0013.txt)**] [**[시청](https://youtu.be/zio_1Yu9WO0)**]
+* E0014. 꽃미남 서강대 교수님 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0014.txt)**] [**[시청](https://youtu.be/XhFu0j0fBw8)**]
+* E0015. 스터디 절대로 하지마라 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0015.txt)**] [**[시청](https://youtu.be/4ZcNL96NMIk)**]
+* E0016. 내가 쓰는 C++11: final과 override [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0016.txt)**] [**[시청](https://youtu.be/JMw0F8FFe80)**]
+* E0017. 영어를 알면 포인터가 보인다 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0017.txt)**] [**[시청](https://youtu.be/aoodEzwwO4M)**]
+* E0018. 내가 쓰는 C++11: unique_ptr [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0018.txt)**] [**[시청](https://youtu.be/MGVSPZoOchE)**]
+* E0019. 자동주차위치 기억시스템 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0019.txt)**] [**[시청](https://youtu.be/9HuLg8Av6pE)**]
+* E0020. 내가쓰는 C++11: static_assert [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0020.txt)**] [**[시청](https://youtu.be/D4stwJWasXo)**]
+* E0021. 셰이더란 무엇인가? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0021.txt)**] [**[시청](https://youtu.be/IF5FaSt-GV0)**]
+* E0022. 삼색 코드리뷰 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0022.txt)**] [**[시청](https://youtu.be/XWBZXEIQCSU)**]
+* E0023. 한국인이 잘못쓰는 영어: 사전찾기 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0023.txt)**] [**[시청](https://youtu.be/JqVKQpxuEbo)**]
+* E0024. 검색엔진의 미래 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0024.txt)**] [**[시청](https://youtu.be/H1vFFprDHN0)**]
+* E0025. 게임프로그래머 테크트리 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0025.txt)**] [**[시청](https://youtu.be/iyELYDohb1M)**]
+* E0026. 한국인이 잘못쓰는 영어: Sure [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0026.txt)**] [**[시청](https://youtu.be/k97AhvbnAHo)**]
+* E0027. 한국인이 잘못쓰는 영어: No [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0027.txt)**] [**[시청](https://youtu.be/ln6FqT8xnY0)**]
+* E0028. 개발자 오래 해먹으려면... [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0028.txt)**] [**[시청](https://youtu.be/9romm_vlpKA)**]
+* E0029. KGC 2013에서 뵙겠습니다 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0029.txt)**] [**[시청](https://youtu.be/uiovKnVmIyU)**]
+* E0030. 한국인이 잘못쓰는 영어: 올바른 영문법? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0030.txt)**] [**[시청](https://youtu.be/yt0euxULPXk)**]
+* E0031. 지하철이 시민성을 바꾼다 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0031.txt)**] [**[시청](https://youtu.be/5p_V-rDK6r0)**]
+* E0032. 거만한 개발자 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0032.txt)**] [**[시청](https://youtu.be/XLvnMBPamn4)**]
+* E0033. 한국인이 잘못쓰는 영어: Okay [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0033.txt)**] [**[시청](https://youtu.be/IaPr9qV3Mpc)**]
+* E0034. 효과적인 온라인 대화 스타일 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0034.txt)**] [**[시청](https://youtu.be/tirhsG3Rx7o)**]
+* E0035. 페이스북을 버린 이유 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0035.txt)**] [**[시청](https://youtu.be/F8UIXQtpJDI)**]
+* E0036. 한국인이 잘못쓰는 영어: Main Idea First [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0036.txt)**] [**[시청](https://youtu.be/dqk4qzczZxE)**]
+* E0037. 포프의 시간관리법 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0037.txt)**] [**[시청](https://youtu.be/GYkEvhwh2b0)**]
+* E0038. 야근에 대해 말해보자 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0038.txt)**] [**[시청](https://youtu.be/XBHS9r-z80U)**]
+* E0039. 책자랑: HLSL 개발 조리법 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0039.txt)**] [**[시청](https://youtu.be/IXGTaI2zjOc)**]
+* E0040. 물리기반 렌더링 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0040.txt)**] [**[시청](https://youtu.be/DIEv3Uw1leo)**]
+* E0041. 추천 유틸리티 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0041.txt)**] [**[시청](https://youtu.be/6-S7PRLVDRw)**]
+* E0042. 회사에서 원하는 프로그래머 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0042.txt)**] [**[시청](https://youtu.be/0Il35gQMyZA)**]
+* E0043. 데이터 중심 디자인 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0043.txt)**] [**[시청](https://youtu.be/OykXe9F5IFk)**]
+* E0044. C# 하악하악~ [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0044.txt)**] [**[시청](https://youtu.be/C_FKj9lSvmM)**]
 * E0045. 번역자 되는법 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0045.txt)**] [**[시청](https://youtu.be/p-975o4VjIM)**]
 * E0046. Pair Programming 보다 나은 법 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0046.txt)**] [**[시청](https://youtu.be/ScMqFD8g3jU)**]
 * E0047. KGC 후기를 가장한 뇌물광고.. (응?) [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0047.txt)**] [**[시청](https://youtu.be/zCrMzOtM4R0)**]
@@ -518,11 +557,11 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 
 ## 문단 정리만 필요한 자막
 실제 사람이 제작한 자막이지만 제대로 문단정리가 안 되어 있는 자막입니다. 조금의 사랑이 필요합니다.
-* E0302. null이란 무엇인가? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0302.txt)**] [**[시청](https://youtu.be/N08BSA3rwhU)**]
+* 현재 없음
 
 ## 작업이 끝난 자막
 작업이 끝난 자막이지만 더 이쁘게 고쳐주시면 감사합니다. ^^
-* 현재 없음
+* E0302. null이란 무엇인가? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0302.txt)**] [**[시청](https://youtu.be/N08BSA3rwhU)**]
 
 # 저작권
 이 리포에 있는 모든 파일의 저작권은 'Pope Kim'에게 있으며, 본 리포에 공헌하는 용도로만 사용하실 수 있습니다. 그 외 저작권자의 허락 없이 무단 전재, 복제 등을 금합니다.
