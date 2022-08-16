@@ -16,8 +16,6 @@
 # 공헌이 필요한 자막 목록
 ## YouTube 자동 생성 자막
 YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않은 자막입니다. 많은 사랑이 필요합니다.
-* E0004. KGC 2013 발표신청 완료! 근데 공짜 티셔츠좀 T_T [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0004.txt)**] [**[시청](https://youtu.be/aGMhLZtw8hE)**]
-* E0005. 내가 쓰는 C++11: auto [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0005.txt)**] [**[시청](https://youtu.be/GmyXz-HQY-U)**]
 * E0006. 영어회화 공부법 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0006.txt)**] [**[시청](https://youtu.be/CoOXdml5ny8)**]
 * E0007. 마이크로소프트 MVP [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0007.txt)**] [**[시청](https://youtu.be/7FVPdRGVZMA)**]
 * E0008. 내가 못쓰는 C++11: constexpr [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0008.txt)**] [**[시청](https://youtu.be/OlxOKdrQhO0)**]
@@ -565,6 +563,8 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 * E0001. 프로그래머가 수학을 못하면 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0001.txt)**] [**[시청](https://youtu.be/yMQncICQFYs)**]
 * E0002. 텍스트 보단 비디오 (개국인사?) [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0002.txt)**] [**[시청](https://youtu.be/wjTL6-lKRIM)**]
 * E0003. 모바일게임이 천하를 평정할까? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0003.txt)**] [**[시청](https://youtu.be/TsmxaxoY7rY)**]
+* E0004. KGC 2013 발표신청 완료! 근데 공짜 티셔츠좀 T_T [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0004.txt)**] [**[시청](https://youtu.be/aGMhLZtw8hE)**]
+* E0005. 내가 쓰는 C++11: auto [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0005.txt)**] [**[시청](https://youtu.be/GmyXz-HQY-U)**]
 * E0045. 번역자 되는법 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0045.txt)**] [**[시청](https://youtu.be/p-975o4VjIM)**]
 * E0302. null이란 무엇인가? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0302.txt)**] [**[시청](https://youtu.be/N08BSA3rwhU)**]
 
