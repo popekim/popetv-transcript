@@ -16,7 +16,6 @@
 # 공헌이 필요한 자막 목록
 ## YouTube 자동 생성 자막
 YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않은 자막입니다. 많은 사랑이 필요합니다.
-* E0008. 내가 못쓰는 C++11: constexpr [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0008.txt)**] [**[시청](https://youtu.be/OlxOKdrQhO0)**]
 * E0009. 탑프로그래머라면 하드웨어 쯤은... [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0009.txt)**] [**[시청](https://youtu.be/g4sXh0NR0Dk)**]
 * E0010. 녹내장, 오디오북, 불법복제 그리고 전자책 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0010.txt)**] [**[시청](https://youtu.be/vhpCjCYNyr4)**]
 * E0011. 원화가 북미취업 케이스 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0011.txt)**] [**[시청](https://youtu.be/B7jIpD2B2nY)**]
@@ -565,6 +564,7 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 * E0005. 내가 쓰는 C++11: auto [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0005.txt)**] [**[시청](https://youtu.be/GmyXz-HQY-U)**]
 * E0006. 영어회화 공부법 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0006.txt)**] [**[시청](https://youtu.be/CoOXdml5ny8)**]
 * E0007. 마이크로소프트 MVP [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0007.txt)**] [**[시청](https://youtu.be/7FVPdRGVZMA)**]
+* E0008. 내가 못쓰는 C++11: constexpr [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0008.txt)**] [**[시청](https://youtu.be/OlxOKdrQhO0)**]
 * E0045. 번역자 되는법 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0045.txt)**] [**[시청](https://youtu.be/p-975o4VjIM)**]
 * E0302. null이란 무엇인가? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0302.txt)**] [**[시청](https://youtu.be/N08BSA3rwhU)**]
 
