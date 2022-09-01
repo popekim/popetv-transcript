@@ -503,6 +503,7 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 * E0545. 기발한 이름을 지으면 일어나는 일 (부제: 트라이의 어원) [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0545.txt)**] [**[시청](https://youtu.be/pWKTmA3zm8k)**]
 * E0546. 좋은 선생 vs 나쁜 선생 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0546.txt)**] [**[시청](https://youtu.be/oJsrWxIxuKw)**]
 * E0547. 도움 자료의 혜택을 받는 사람은 정해져 있다? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0547.txt)**] [**[시청](https://youtu.be/Acb9mnvqECQ)**]
+* E0548. 남이 날 주니어 프로그래머로 보는 이유 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0548.txt)**] [**[시청](https://youtu.be/UFbHFPiR35k)**]
 
 ## 문단 정리만 필요한 자막
 실제 사람이 제작한 자막이지만 제대로 문단정리가 안 되어 있는 자막입니다. 조금의 사랑이 필요합니다.
