@@ -414,6 +414,12 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 
 ## 문단 정리만 필요한 자막
 실제 사람이 제작한 자막이지만 제대로 문단정리가 안 되어 있는 자막입니다. 조금의 사랑이 필요합니다.
+* E0015. 스터디 절대로 하지마라 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0015.txt)**] [**[시청](https://youtu.be/4ZcNL96NMIk)**]
+* E0016. 내가 쓰는 C++11: final과 override [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0016.txt)**] [**[시청](https://youtu.be/JMw0F8FFe80)**]
+* E0017. 영어를 알면 포인터가 보인다 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0017.txt)**] [**[시청](https://youtu.be/aoodEzwwO4M)**]
+* E0018. 내가 쓰는 C++11: unique_ptr [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0018.txt)**] [**[시청](https://youtu.be/MGVSPZoOchE)**]
+* E0019. 자동주차위치 기억시스템 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0019.txt)**] [**[시청](https://youtu.be/9HuLg8Av6pE)**]
+* E0020. 내가쓰는 C++11: static_assert [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0020.txt)**] [**[시청](https://youtu.be/D4stwJWasXo)**]
 * E0111. 좋은 프로그래밍 언어와 기본동작 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0111.txt)**] [**[시청](https://youtu.be/99XbTaCJfhU)**]
 * E0114. 왜 아직도 float인가? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0114.txt)**] [**[시청](https://youtu.be/3CaVXKGRo-4)**]
 * E0115. 올바른 코드리뷰 프로세스 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0115.txt)**] [**[시청](https://youtu.be/bQqN4G8tRmY)**]
@@ -559,12 +565,6 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 * E0012. 내가 쓰는 C++11: nullptr [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0012.txt)**] [**[시청](https://youtu.be/Lt8MoQ-Rz-c)**]
 * E0013. 노동법위반 게임회사 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0013.txt)**] [**[시청](https://youtu.be/zio_1Yu9WO0)**]
 * E0014. 꽃미남 서강대 교수님 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0014.txt)**] [**[시청](https://youtu.be/XhFu0j0fBw8)**]
-* E0015. 스터디 절대로 하지마라 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0015.txt)**] [**[시청](https://youtu.be/4ZcNL96NMIk)**]
-* E0016. 내가 쓰는 C++11: final과 override [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0016.txt)**] [**[시청](https://youtu.be/JMw0F8FFe80)**]
-* E0017. 영어를 알면 포인터가 보인다 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0017.txt)**] [**[시청](https://youtu.be/aoodEzwwO4M)**]
-* E0018. 내가 쓰는 C++11: unique_ptr [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0018.txt)**] [**[시청](https://youtu.be/MGVSPZoOchE)**]
-* E0019. 자동주차위치 기억시스템 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0019.txt)**] [**[시청](https://youtu.be/9HuLg8Av6pE)**]
-* E0020. 내가쓰는 C++11: static_assert [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0020.txt)**] [**[시청](https://youtu.be/D4stwJWasXo)**]
 * E0045. 번역자 되는법 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0045.txt)**] [**[시청](https://youtu.be/p-975o4VjIM)**]
 * E0302. null이란 무엇인가? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0302.txt)**] [**[시청](https://youtu.be/N08BSA3rwhU)**]
 
