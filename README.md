@@ -16,7 +16,6 @@
 # 공헌이 필요한 자막 목록
 ## YouTube 자동 생성 자막
 YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않은 자막입니다. 많은 사랑이 필요합니다.
-* E0021. 셰이더란 무엇인가? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0021.txt)**] [**[시청](https://youtu.be/IF5FaSt-GV0)**]
 * E0022. 삼색 코드리뷰 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0022.txt)**] [**[시청](https://youtu.be/XWBZXEIQCSU)**]
 * E0023. 한국인이 잘못쓰는 영어: 사전찾기 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0023.txt)**] [**[시청](https://youtu.be/JqVKQpxuEbo)**]
 * E0024. 검색엔진의 미래 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0024.txt)**] [**[시청](https://youtu.be/H1vFFprDHN0)**]
@@ -565,6 +564,7 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 * E0012. 내가 쓰는 C++11: nullptr [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0012.txt)**] [**[시청](https://youtu.be/Lt8MoQ-Rz-c)**]
 * E0013. 노동법위반 게임회사 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0013.txt)**] [**[시청](https://youtu.be/zio_1Yu9WO0)**]
 * E0014. 꽃미남 서강대 교수님 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0014.txt)**] [**[시청](https://youtu.be/XhFu0j0fBw8)**]
+* E0021. 셰이더란 무엇인가? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0021.txt)**] [**[시청](https://youtu.be/IF5FaSt-GV0)**]
 * E0045. 번역자 되는법 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0045.txt)**] [**[시청](https://youtu.be/p-975o4VjIM)**]
 * E0302. null이란 무엇인가? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0302.txt)**] [**[시청](https://youtu.be/N08BSA3rwhU)**]
 
