@@ -17,7 +17,6 @@
 ## YouTube 자동 생성 자막
 YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않은 자막입니다. 많은 사랑이 필요합니다.
 * E0024. 검색엔진의 미래 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0024.txt)**] [**[시청](https://youtu.be/H1vFFprDHN0)**]
-* E0025. 게임프로그래머 테크트리 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0025.txt)**] [**[시청](https://youtu.be/iyELYDohb1M)**]
 * E0026. 한국인이 잘못쓰는 영어: Sure [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0026.txt)**] [**[시청](https://youtu.be/k97AhvbnAHo)**]
 * E0027. 한국인이 잘못쓰는 영어: No [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0027.txt)**] [**[시청](https://youtu.be/ln6FqT8xnY0)**]
 * E0028. 개발자 오래 해먹으려면... [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0028.txt)**] [**[시청](https://youtu.be/9romm_vlpKA)**]
@@ -381,6 +380,7 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 
 ## 문단 정리만 필요한 자막
 실제 사람이 제작한 자막이지만 제대로 문단정리가 안 되어 있는 자막입니다. 조금의 사랑이 필요합니다.
+* E0025. 게임프로그래머 테크트리 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0025.txt)**] [**[시청](https://youtu.be/iyELYDohb1M)**]
 * E0029. KGC 2013에서 뵙겠습니다 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0029.txt)**] [**[시청](https://youtu.be/uiovKnVmIyU)**]
 * E0032. 거만한 개발자 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0032.txt)**] [**[시청](https://youtu.be/XLvnMBPamn4)**]
 * E0035. 페이스북을 버린 이유 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0035.txt)**] [**[시청](https://youtu.be/F8UIXQtpJDI)**]
