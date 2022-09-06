@@ -16,8 +16,6 @@
 # 공헌이 필요한 자막 목록
 ## YouTube 자동 생성 자막
 YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않은 자막입니다. 많은 사랑이 필요합니다.
-* E0022. 삼색 코드리뷰 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0022.txt)**] [**[시청](https://youtu.be/XWBZXEIQCSU)**]
-* E0023. 한국인이 잘못쓰는 영어: 사전찾기 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0023.txt)**] [**[시청](https://youtu.be/JqVKQpxuEbo)**]
 * E0024. 검색엔진의 미래 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0024.txt)**] [**[시청](https://youtu.be/H1vFFprDHN0)**]
 * E0025. 게임프로그래머 테크트리 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0025.txt)**] [**[시청](https://youtu.be/iyELYDohb1M)**]
 * E0026. 한국인이 잘못쓰는 영어: Sure [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0026.txt)**] [**[시청](https://youtu.be/k97AhvbnAHo)**]
@@ -565,6 +563,8 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 * E0019. 자동주차위치 기억시스템 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0019.txt)**] [**[시청](https://youtu.be/9HuLg8Av6pE)**]
 * E0020. 내가쓰는 C++11: static_assert [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0020.txt)**] [**[시청](https://youtu.be/D4stwJWasXo)**]
 * E0021. 셰이더란 무엇인가? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0021.txt)**] [**[시청](https://youtu.be/IF5FaSt-GV0)**]
+* E0022. 삼색 코드리뷰 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0022.txt)**] [**[시청](https://youtu.be/XWBZXEIQCSU)**]
+* E0023. 한국인이 잘못쓰는 영어: 사전찾기 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0023.txt)**] [**[시청](https://youtu.be/JqVKQpxuEbo)**]
 * E0045. 번역자 되는법 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0045.txt)**] [**[시청](https://youtu.be/p-975o4VjIM)**]
 * E0302. null이란 무엇인가? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0302.txt)**] [**[시청](https://youtu.be/N08BSA3rwhU)**]
 
