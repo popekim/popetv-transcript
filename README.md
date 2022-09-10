@@ -16,10 +16,6 @@
 # 공헌이 필요한 자막 목록
 ## YouTube 자동 생성 자막
 YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않은 자막입니다. 많은 사랑이 필요합니다.
-* E0024. 검색엔진의 미래 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0024.txt)**] [**[시청](https://youtu.be/H1vFFprDHN0)**]
-* E0026. 한국인이 잘못쓰는 영어: Sure [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0026.txt)**] [**[시청](https://youtu.be/k97AhvbnAHo)**]
-* E0027. 한국인이 잘못쓰는 영어: No [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0027.txt)**] [**[시청](https://youtu.be/ln6FqT8xnY0)**]
-* E0028. 개발자 오래 해먹으려면... [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0028.txt)**] [**[시청](https://youtu.be/9romm_vlpKA)**]
 * E0030. 한국인이 잘못쓰는 영어: 올바른 영문법? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0030.txt)**] [**[시청](https://youtu.be/yt0euxULPXk)**]
 * E0031. 지하철이 시민성을 바꾼다 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0031.txt)**] [**[시청](https://youtu.be/5p_V-rDK6r0)**]
 * E0033. 한국인이 잘못쓰는 영어: Okay [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0033.txt)**] [**[시청](https://youtu.be/IaPr9qV3Mpc)**]
@@ -377,10 +373,11 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 * E0545. 좋은 선생 vs 나쁜 선생 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0545.txt)**] [**[시청](https://youtu.be/oJsrWxIxuKw)**]
 * E0546. 도움 자료의 혜택을 받는 사람은 정해져 있다? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0546.txt)**] [**[시청](https://youtu.be/Acb9mnvqECQ)**]
 * E0547. 남이 날 주니어 프로그래머로 보는 이유 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0547.txt)**] [**[시청](https://youtu.be/UFbHFPiR35k)**]
+* E0548. 문서 파일에서도 보이는 개발자 자질 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0548.txt)**] [**[시청](https://youtu.be/Yjrez3N0_us)**]
+* E0549. 버그 하나라도 못 고치면 넌 주니어 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0549.txt)**] [**[시청](https://youtu.be/WVIDfLWvE9o)**]
 
 ## 문단 정리만 필요한 자막
 실제 사람이 제작한 자막이지만 제대로 문단정리가 안 되어 있는 자막입니다. 조금의 사랑이 필요합니다.
-* E0025. 게임프로그래머 테크트리 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0025.txt)**] [**[시청](https://youtu.be/iyELYDohb1M)**]
 * E0029. KGC 2013에서 뵙겠습니다 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0029.txt)**] [**[시청](https://youtu.be/uiovKnVmIyU)**]
 * E0032. 거만한 개발자 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0032.txt)**] [**[시청](https://youtu.be/XLvnMBPamn4)**]
 * E0035. 페이스북을 버린 이유 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0035.txt)**] [**[시청](https://youtu.be/F8UIXQtpJDI)**]
@@ -565,6 +562,11 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 * E0021. 셰이더란 무엇인가? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0021.txt)**] [**[시청](https://youtu.be/IF5FaSt-GV0)**]
 * E0022. 삼색 코드리뷰 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0022.txt)**] [**[시청](https://youtu.be/XWBZXEIQCSU)**]
 * E0023. 한국인이 잘못쓰는 영어: 사전찾기 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0023.txt)**] [**[시청](https://youtu.be/JqVKQpxuEbo)**]
+* E0024. 검색엔진의 미래 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0024.txt)**] [**[시청](https://youtu.be/H1vFFprDHN0)**]
+* E0025. 게임프로그래머 테크트리 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0025.txt)**] [**[시청](https://youtu.be/iyELYDohb1M)**]
+* E0026. 한국인이 잘못쓰는 영어: Sure [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0026.txt)**] [**[시청](https://youtu.be/k97AhvbnAHo)**]
+* E0027. 한국인이 잘못쓰는 영어: No [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0027.txt)**] [**[시청](https://youtu.be/ln6FqT8xnY0)**]
+* E0028. 개발자 오래 해먹으려면... [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0028.txt)**] [**[시청](https://youtu.be/9romm_vlpKA)**]
 * E0045. 번역자 되는법 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0045.txt)**] [**[시청](https://youtu.be/p-975o4VjIM)**]
 * E0302. null이란 무엇인가? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0302.txt)**] [**[시청](https://youtu.be/N08BSA3rwhU)**]
 
