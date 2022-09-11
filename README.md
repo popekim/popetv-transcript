@@ -16,6 +16,8 @@
 # 공헌이 필요한 자막 목록
 ## YouTube 자동 생성 자막
 YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않은 자막입니다. 많은 사랑이 필요합니다.
+
+(총 353개)
 * E0031. 지하철이 시민성을 바꾼다 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0031.txt)**] [**[시청](https://youtu.be/5p_V-rDK6r0)**]
 * E0033. 한국인이 잘못쓰는 영어: Okay [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0033.txt)**] [**[시청](https://youtu.be/IaPr9qV3Mpc)**]
 * E0034. 효과적인 온라인 대화 스타일 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0034.txt)**] [**[시청](https://youtu.be/tirhsG3Rx7o)**]
@@ -372,6 +374,8 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 
 ## 문단 정리만 필요한 자막
 실제 사람이 제작한 자막이지만 제대로 문단정리가 안 되어 있는 자막입니다. 조금의 사랑이 필요합니다.
+
+(총 157개)
 * E0032. 거만한 개발자 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0032.txt)**] [**[시청](https://youtu.be/XLvnMBPamn4)**]
 * E0035. 페이스북을 버린 이유 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0035.txt)**] [**[시청](https://youtu.be/F8UIXQtpJDI)**]
 * E0039. 책자랑: HLSL 개발 조리법 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0039.txt)**] [**[시청](https://youtu.be/IXGTaI2zjOc)**]
@@ -532,6 +536,8 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 
 ## 작업이 끝난 자막
 작업이 끝난 자막이지만 더 이쁘게 고쳐주시면 감사합니다. ^^
+
+(총 37개)
 * E0001. 프로그래머가 수학을 못하면 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0001.txt)**] [**[시청](https://youtu.be/yMQncICQFYs)**]
 * E0002. 텍스트 보단 비디오 (개국인사?) [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0002.txt)**] [**[시청](https://youtu.be/wjTL6-lKRIM)**]
 * E0003. 모바일게임이 천하를 평정할까? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0003.txt)**] [**[시청](https://youtu.be/TsmxaxoY7rY)**]
