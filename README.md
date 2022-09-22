@@ -17,7 +17,7 @@
 ## YouTube 자동 생성 자막
 YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않은 자막입니다. 많은 사랑이 필요합니다.
 
-(총 345개)
+(총 346개)
 * E0036. 한국인이 잘못쓰는 영어: Main Idea First [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0036.txt)**] [**[시청](https://youtu.be/dqk4qzczZxE)**]
 * E0037. 포프의 시간관리법 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0037.txt)**] [**[시청](https://youtu.be/GYkEvhwh2b0)**]
 * E0041. 추천 유틸리티 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0041.txt)**] [**[시청](https://youtu.be/6-S7PRLVDRw)**]
@@ -363,6 +363,7 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 * E0545. 좋은 선생 vs 나쁜 선생 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0545.txt)**] [**[시청](https://youtu.be/oJsrWxIxuKw)**]
 * E0546. 도움 자료의 혜택을 받는 사람은 정해져 있다? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0546.txt)**] [**[시청](https://youtu.be/Acb9mnvqECQ)**]
 * E0547. 남이 날 주니어 프로그래머로 보는 이유 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0547.txt)**] [**[시청](https://youtu.be/UFbHFPiR35k)**]
+* E0550. 효율적인 테스트 코드 작성법 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0550.txt)**] [**[시청](https://youtu.be/gs1qM1TF5zA)**]
 
 ## 문단 정리만 필요한 자막
 실제 사람이 제작한 자막이지만 제대로 문단정리가 안 되어 있는 자막입니다. 조금의 사랑이 필요합니다.
