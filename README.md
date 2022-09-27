@@ -17,7 +17,7 @@
 ## YouTube 자동 생성 자막
 YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않은 자막입니다. 많은 사랑이 필요합니다.
 
-(총 341개)
+(총 340개)
 * E0047. KGC 후기를 가장한 뇌물광고.. (응?) [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0047.txt)**] [**[시청](https://youtu.be/zCrMzOtM4R0)**]
 * E0048. 언리얼 엔진에서 지원하는 머테리얼 레이어 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0048.txt)**] [**[시청](https://youtu.be/MlqMUdkItcY)**]
 * E0049. 스페셜리스트 vs 제너럴리스트 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0049.txt)**] [**[시청](https://youtu.be/9n--830SKk0)**]
@@ -358,14 +358,12 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 * E0544. 기발한 이름을 지으면 일어나는 일 (부제: 트라이의 어원) [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0544.txt)**] [**[시청](https://youtu.be/pWKTmA3zm8k)**]
 * E0545. 좋은 선생 vs 나쁜 선생 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0545.txt)**] [**[시청](https://youtu.be/oJsrWxIxuKw)**]
 * E0546. 도움 자료의 혜택을 받는 사람은 정해져 있다? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0546.txt)**] [**[시청](https://youtu.be/Acb9mnvqECQ)**]
-* E0547. 남이 날 주니어 프로그래머로 보는 이유 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0547.txt)**] [**[시청](https://youtu.be/UFbHFPiR35k)**]
 
 ## 문단 정리만 필요한 자막
 실제 사람이 제작한 자막이지만 제대로 문단정리가 안 되어 있는 자막입니다. 조금의 사랑이 필요합니다.
 
-(총 151개)
+(총 150개)
 * E0040. 물리기반 렌더링 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0040.txt)**] [**[시청](https://youtu.be/DIEv3Uw1leo)**]
-* E0043. 데이터 중심 디자인 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0043.txt)**] [**[시청](https://youtu.be/OykXe9F5IFk)**]
 * E0046. Pair Programming 보다 나은 법 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0046.txt)**] [**[시청](https://youtu.be/ScMqFD8g3jU)**]
 * E0050. 슈팅게임 알고리듬 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0050.txt)**] [**[시청](https://youtu.be/NgFp5D1trAA)**]
 * E0051. C#이 C++보다 빨라진다? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0051.txt)**] [**[시청](https://youtu.be/K0RDs8705WE)**]
@@ -519,7 +517,7 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 ## 작업이 끝난 자막
 작업이 끝난 자막이지만 더 이쁘게 고쳐주시면 감사합니다. ^^
 
-(총 56개)
+(총 58개)
 * E0001. 프로그래머가 수학을 못하면 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0001.txt)**] [**[시청](https://youtu.be/yMQncICQFYs)**]
 * E0002. 텍스트 보단 비디오 (개국인사?) [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0002.txt)**] [**[시청](https://youtu.be/wjTL6-lKRIM)**]
 * E0003. 모바일게임이 천하를 평정할까? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0003.txt)**] [**[시청](https://youtu.be/TsmxaxoY7rY)**]
@@ -561,6 +559,7 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 * E0039. 책자랑: HLSL 개발 조리법 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0039.txt)**] [**[시청](https://youtu.be/IXGTaI2zjOc)**]
 * E0041. 추천 유틸리티 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0041.txt)**] [**[시청](https://youtu.be/6-S7PRLVDRw)**]
 * E0042. 회사에서 원하는 프로그래머 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0042.txt)**] [**[시청](https://youtu.be/0Il35gQMyZA)**]
+* E0043. 데이터 중심 디자인 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0043.txt)**] [**[시청](https://youtu.be/OykXe9F5IFk)**]
 * E0044. C# 하악하악~ [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0044.txt)**] [**[시청](https://youtu.be/C_FKj9lSvmM)**]
 * E0045. 번역자 되는법 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0045.txt)**] [**[시청](https://youtu.be/p-975o4VjIM)**]
 * E0052. 게임프로그래머가 되는 이유 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0052.txt)**] [**[시청](https://youtu.be/RuXTmcypGNo)**]
@@ -573,6 +572,7 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 * E0335. 윈10 나이트 라이트 모드와 EyeLeo [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0335.txt)**] [**[시청](https://youtu.be/9aa1FPxhHOw)**]
 * E0481. 꿈과 야망을 강요하는 사회 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0481.txt)**] [**[시청](https://youtu.be/TfexLywi2bs)**]
 * E0497. 전 실리콘밸리 기술이사가 말하는 회사 지분 vs 봉급 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0497.txt)**] [**[시청](https://youtu.be/ZTs5Tkw3Xzg)**]
+* E0547. 남이 날 주니어 프로그래머로 보는 이유 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0547.txt)**] [**[시청](https://youtu.be/UFbHFPiR35k)**]
 * E0548. 문서 파일에서도 보이는 개발자 자질 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0548.txt)**] [**[시청](https://youtu.be/Yjrez3N0_us)**]
 * E0549. 버그 하나라도 못 고치면 넌 주니어 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0549.txt)**] [**[시청](https://youtu.be/WVIDfLWvE9o)**]
 * E0550. 효율적인 테스트 코드 작성법 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0550.txt)**] [**[시청](https://youtu.be/gs1qM1TF5zA)**]
