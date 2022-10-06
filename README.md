@@ -523,7 +523,7 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 ## 작업이 끝난 자막
 작업이 끝난 자막이지만 더 이쁘게 고쳐주시면 감사합니다. ^^
 
-(총 59개)
+(총 60개)
 * E0001. 프로그래머가 수학을 못하면 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0001.txt)**] [**[시청](https://youtu.be/yMQncICQFYs)**]
 * E0002. 텍스트 보단 비디오 (개국인사?) [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0002.txt)**] [**[시청](https://youtu.be/wjTL6-lKRIM)**]
 * E0003. 모바일게임이 천하를 평정할까? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0003.txt)**] [**[시청](https://youtu.be/TsmxaxoY7rY)**]
@@ -583,6 +583,7 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 * E0548. 문서 파일에서도 보이는 개발자 자질 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0548.txt)**] [**[시청](https://youtu.be/Yjrez3N0_us)**]
 * E0549. 버그 하나라도 못 고치면 넌 주니어 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0549.txt)**] [**[시청](https://youtu.be/WVIDfLWvE9o)**]
 * E0550. 효율적인 테스트 코드 작성법 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0550.txt)**] [**[시청](https://youtu.be/gs1qM1TF5zA)**]
+* E0551. 프로젝트 세팅 못하는 넌 주니어 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0551.txt)**] [**[시청](https://youtu.be/U2I_dx57zIo)**]
 
 # 저작권
 이 리포에 있는 모든 파일의 저작권은 'Pope Kim'에게 있으며, 본 리포에 공헌하는 용도로만 사용하실 수 있습니다. 그 외 저작권자의 허락 없이 무단 전재, 복제 등을 금합니다.
