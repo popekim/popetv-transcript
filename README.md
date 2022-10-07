@@ -24,10 +24,7 @@ YouTube가 자동 생성도 안 해줘서 외로운 자막입니다. ㅠ_ㅠ
 ## YouTube 자동 생성 자막
 YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않은 자막입니다. 많은 사랑이 필요합니다.
 
-(총 327개)
-* E0047. KGC 후기를 가장한 뇌물광고.. (응?) [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0047.txt)**] [**[시청](https://youtu.be/zCrMzOtM4R0)**]
-* E0048. 언리얼 엔진에서 지원하는 머테리얼 레이어 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0048.txt)**] [**[시청](https://youtu.be/MlqMUdkItcY)**]
-* E0055. 신년계획 따윈 세워서 뭐하나? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0055.txt)**] [**[시청](https://youtu.be/NgIC_M2GsdU)**]
+(총 324개)
 * E0056. 규칙을 지키는 놈만 손해다? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0056.txt)**] [**[시청](https://youtu.be/Dos6h0J5ro0)**]
 * E0061. 최적화 툴: Speed Cop [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0061.txt)**] [**[시청](https://youtu.be/5TM-vPhuL7Q)**]
 * E0065. 유니티 무료버전에 필요한 기능 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0065.txt)**] [**[시청](https://youtu.be/U5FVY93JzF8)**]
@@ -523,7 +520,7 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 ## 작업이 끝난 자막
 작업이 끝난 자막이지만 더 이쁘게 고쳐주시면 감사합니다. ^^
 
-(총 60개)
+(총 63개)
 * E0001. 프로그래머가 수학을 못하면 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0001.txt)**] [**[시청](https://youtu.be/yMQncICQFYs)**]
 * E0002. 텍스트 보단 비디오 (개국인사?) [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0002.txt)**] [**[시청](https://youtu.be/wjTL6-lKRIM)**]
 * E0003. 모바일게임이 천하를 평정할까? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0003.txt)**] [**[시청](https://youtu.be/TsmxaxoY7rY)**]
@@ -568,8 +565,11 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 * E0043. 데이터 중심 디자인 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0043.txt)**] [**[시청](https://youtu.be/OykXe9F5IFk)**]
 * E0044. C# 하악하악~ [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0044.txt)**] [**[시청](https://youtu.be/C_FKj9lSvmM)**]
 * E0045. 번역자 되는법 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0045.txt)**] [**[시청](https://youtu.be/p-975o4VjIM)**]
+* E0047. KGC 후기를 가장한 뇌물광고.. (응?) [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0047.txt)**] [**[시청](https://youtu.be/zCrMzOtM4R0)**]
+* E0048. 언리얼 엔진에서 지원하는 머테리얼 레이어 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0048.txt)**] [**[시청](https://youtu.be/MlqMUdkItcY)**]
 * E0052. 게임프로그래머가 되는 이유 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0052.txt)**] [**[시청](https://youtu.be/RuXTmcypGNo)**]
 * E0054. 버전컨트롤 시스템 쓰세요 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0054.txt)**] [**[시청](https://youtu.be/VLKsntz2ga0)**]
+* E0055. 신년계획 따윈 세워서 뭐하나? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0055.txt)**] [**[시청](https://youtu.be/NgIC_M2GsdU)**]
 * E0108. 야근과 자기발전 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0108.txt)**] [**[시청](https://youtu.be/UlqNxG95CRE)**]
 * E0127. 라이프스타일과 야근 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0127.txt)**] [**[시청](https://youtu.be/sPN9cEI3QNc)**]
 * E0147. C++ 표준에 대한 불만 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0147.txt)**] [**[시청](https://youtu.be/lFlJuxxOoW8)**]
