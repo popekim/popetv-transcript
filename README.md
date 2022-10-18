@@ -353,7 +353,7 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 ## 문단 정리만 필요한 자막
 실제 사람이 제작한 자막이지만 제대로 문단정리가 안 되어 있는 자막입니다. 조금의 사랑이 필요합니다.
 
-(총 162개)
+(총 165개)
 * E0040. 물리기반 렌더링 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0040.txt)**] [**[시청](https://youtu.be/DIEv3Uw1leo)**]
 * E0046. Pair Programming 보다 나은 법 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0046.txt)**] [**[시청](https://youtu.be/ScMqFD8g3jU)**]
 * E0049. 스페셜리스트 vs 제너럴리스트 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0049.txt)**] [**[시청](https://youtu.be/9n--830SKk0)**]
@@ -516,6 +516,7 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 * E0519. 지문인식: 2만 원에 PC 보안 향상 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0519.txt)**] [**[시청](https://youtu.be/PwJn50xDM54)**]
 * E0520. push 기반 인생 자동화 (로또 편) [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0520.txt)**] [**[시청](https://youtu.be/tdzM65JCWfE)**]
 * E0521. 푸시 알림과 생산성 저하 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0521.txt)**] [**[시청](https://youtu.be/Bd1kNGUc7B8)**]
+* E0552. 내가 재활용하지 않는 사회 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0552.txt)**] [**[시청](https://youtu.be/qDYQhVDIjaU)**]
 
 ## 작업이 끝난 자막
 작업이 끝난 자막이지만 더 이쁘게 고쳐주시면 감사합니다. ^^
