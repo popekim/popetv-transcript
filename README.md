@@ -24,8 +24,7 @@ YouTube가 자동 생성도 안 해줘서 외로운 자막입니다. ㅠ_ㅠ
 ## YouTube 자동 생성 자막
 YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않은 자막입니다. 많은 사랑이 필요합니다.
 
-(총 324개)
-* E0056. 규칙을 지키는 놈만 손해다? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0056.txt)**] [**[시청](https://youtu.be/Dos6h0J5ro0)**]
+(총 323개)
 * E0061. 최적화 툴: Speed Cop [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0061.txt)**] [**[시청](https://youtu.be/5TM-vPhuL7Q)**]
 * E0065. 유니티 무료버전에 필요한 기능 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0065.txt)**] [**[시청](https://youtu.be/U5FVY93JzF8)**]
 * E0068. 법감정: 상속세 폐지 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0068.txt)**] [**[시청](https://youtu.be/HvwGro2BUXc)**]
@@ -353,7 +352,7 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 ## 문단 정리만 필요한 자막
 실제 사람이 제작한 자막이지만 제대로 문단정리가 안 되어 있는 자막입니다. 조금의 사랑이 필요합니다.
 
-(총 165개)
+(총 162개)
 * E0040. 물리기반 렌더링 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0040.txt)**] [**[시청](https://youtu.be/DIEv3Uw1leo)**]
 * E0046. Pair Programming 보다 나은 법 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0046.txt)**] [**[시청](https://youtu.be/ScMqFD8g3jU)**]
 * E0049. 스페셜리스트 vs 제너럴리스트 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0049.txt)**] [**[시청](https://youtu.be/9n--830SKk0)**]
@@ -516,12 +515,11 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 * E0519. 지문인식: 2만 원에 PC 보안 향상 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0519.txt)**] [**[시청](https://youtu.be/PwJn50xDM54)**]
 * E0520. push 기반 인생 자동화 (로또 편) [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0520.txt)**] [**[시청](https://youtu.be/tdzM65JCWfE)**]
 * E0521. 푸시 알림과 생산성 저하 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0521.txt)**] [**[시청](https://youtu.be/Bd1kNGUc7B8)**]
-* E0552. 내가 재활용하지 않는 사회 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0552.txt)**] [**[시청](https://youtu.be/qDYQhVDIjaU)**]
 
 ## 작업이 끝난 자막
 작업이 끝난 자막이지만 더 이쁘게 고쳐주시면 감사합니다. ^^
 
-(총 66개)
+(총 69개)
 * E0001. 프로그래머가 수학을 못하면 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0001.txt)**] [**[시청](https://youtu.be/yMQncICQFYs)**]
 * E0002. 텍스트 보단 비디오 (개국인사?) [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0002.txt)**] [**[시청](https://youtu.be/wjTL6-lKRIM)**]
 * E0003. 모바일게임이 천하를 평정할까? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0003.txt)**] [**[시청](https://youtu.be/TsmxaxoY7rY)**]
@@ -571,6 +569,7 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 * E0052. 게임프로그래머가 되는 이유 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0052.txt)**] [**[시청](https://youtu.be/RuXTmcypGNo)**]
 * E0054. 버전컨트롤 시스템 쓰세요 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0054.txt)**] [**[시청](https://youtu.be/VLKsntz2ga0)**]
 * E0055. 신년계획 따윈 세워서 뭐하나? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0055.txt)**] [**[시청](https://youtu.be/NgIC_M2GsdU)**]
+* E0056. 규칙을 지키는 놈만 손해다? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0056.txt)**] [**[시청](https://youtu.be/Dos6h0J5ro0)**]
 * E0108. 야근과 자기발전 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0108.txt)**] [**[시청](https://youtu.be/UlqNxG95CRE)**]
 * E0127. 라이프스타일과 야근 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0127.txt)**] [**[시청](https://youtu.be/sPN9cEI3QNc)**]
 * E0147. C++ 표준에 대한 불만 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0147.txt)**] [**[시청](https://youtu.be/lFlJuxxOoW8)**]
