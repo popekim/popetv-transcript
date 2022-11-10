@@ -515,7 +515,7 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 ## 작업이 끝난 자막
 작업이 끝난 자막이지만 더 이쁘게 고쳐주시면 감사합니다. ^^
 
-(총 73개)
+(총 74개)
 * E0001. 프로그래머가 수학을 못하면 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0001.txt)**] [**[시청](https://youtu.be/yMQncICQFYs)**]
 * E0002. 텍스트 보단 비디오 (개국인사?) [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0002.txt)**] [**[시청](https://youtu.be/wjTL6-lKRIM)**]
 * E0003. 모바일게임이 천하를 평정할까? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0003.txt)**] [**[시청](https://youtu.be/TsmxaxoY7rY)**]
@@ -587,6 +587,7 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 * E0552. 내가 재활용하지 않는 사회 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0552.txt)**] [**[시청](https://youtu.be/qDYQhVDIjaU)**]
 * E0553. 테슬라 로봇을 돈 값 못하게 사용하는 법 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0553.txt)**] [**[시청](https://youtu.be/HCSFs4iu3Wg)**]
 * E0554. 미리 reserve 안하는 넌 주니어 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0554.txt)**] [**[시청](https://youtu.be/9er81n6NyuM)**]
+* E0555. 고수 개발자들이 오픈소스 공헌 안 하는 이유 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0555.txt)**] [**[시청](https://youtu.be/PO9LcYzmy5E)**]
 
 # 저작권
 이 리포에 있는 모든 파일의 저작권은 'Pope Kim'에게 있으며, 본 리포에 공헌하는 용도로만 사용하실 수 있습니다. 그 외 저작권자의 허락 없이 무단 전재, 복제 등을 금합니다.
