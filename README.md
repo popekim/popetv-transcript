@@ -24,7 +24,7 @@ YouTube가 자동 생성도 안 해줘서 외로운 자막입니다. ㅠ_ㅠ
 ## YouTube 자동 생성 자막
 YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않은 자막입니다. 많은 사랑이 필요합니다.
 
-(총 320개)
+(총 319개)
 * E0085. HeartBleed와 오픈소스 프로그래머 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0085.txt)**] [**[시청](https://youtu.be/uaa2ppnoU8g)**]
 * E0086. 올바른 보너스 체계 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0086.txt)**] [**[시청](https://youtu.be/OHydjT3dGw0)**]
 * E0087. 변호사보다 잘 버는 프로그래머 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0087.txt)**] [**[시청](https://youtu.be/jez9EHEgSYk)**]
@@ -296,7 +296,6 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 * E0480. 코딩은 자연계 대학 필수과목이어도 된다 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0480.txt)**] [**[시청](https://youtu.be/iXPSWR03Ltg)**]
 * E0482. 커뮤니케이션 문제: 자기만의 용어를 고집하는 사람 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0482.txt)**] [**[시청](https://youtu.be/BKAsxnQYBl4)**]
 * E0483. 면접관에게 자기소개서란 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0483.txt)**] [**[시청](https://youtu.be/pna1BsRF6sI)**]
-* E0484. 면접관이 기술면접에서 보는 것 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0484.txt)**] [**[시청](https://youtu.be/QOqUrMzOTcw)**]
 * E0485. 면접 중 장점/단점 질문은 어떻게 답변해야 하지? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0485.txt)**] [**[시청](https://youtu.be/niWwCko_Yo8)**]
 * E0487. 패스워드 관리 프로그램 비교 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0487.txt)**] [**[시청](https://youtu.be/d2xMOZgqidI)**]
 * E0488. 팀 패스워드 관리 이렇게 하면 될까? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0488.txt)**] [**[시청](https://youtu.be/lbaf2bupbQY)**]
@@ -515,7 +514,7 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 ## 작업이 끝난 자막
 작업이 끝난 자막이지만 더 이쁘게 고쳐주시면 감사합니다. ^^
 
-(총 74개)
+(총 75개)
 * E0001. 프로그래머가 수학을 못하면 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0001.txt)**] [**[시청](https://youtu.be/yMQncICQFYs)**]
 * E0002. 텍스트 보단 비디오 (개국인사?) [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0002.txt)**] [**[시청](https://youtu.be/wjTL6-lKRIM)**]
 * E0003. 모바일게임이 천하를 평정할까? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0003.txt)**] [**[시청](https://youtu.be/TsmxaxoY7rY)**]
@@ -577,6 +576,7 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 * E0302. null이란 무엇인가? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0302.txt)**] [**[시청](https://youtu.be/N08BSA3rwhU)**]
 * E0335. 윈10 나이트 라이트 모드와 EyeLeo [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0335.txt)**] [**[시청](https://youtu.be/9aa1FPxhHOw)**]
 * E0481. 꿈과 야망을 강요하는 사회 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0481.txt)**] [**[시청](https://youtu.be/TfexLywi2bs)**]
+* E0484. 면접관이 기술면접에서 보는 것 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0484.txt)**] [**[시청](https://youtu.be/QOqUrMzOTcw)**]
 * E0497. 전 실리콘밸리 기술이사가 말하는 회사 지분 vs 봉급 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0497.txt)**] [**[시청](https://youtu.be/ZTs5Tkw3Xzg)**]
 * E0531. OOP는 허접한 개발자 때문에 발전했다? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0531.txt)**] [**[시청](https://youtu.be/oHaGgLRZy3Y)**]
 * E0547. 남이 날 주니어 프로그래머로 보는 이유 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0547.txt)**] [**[시청](https://youtu.be/UFbHFPiR35k)**]
