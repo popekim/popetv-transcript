@@ -588,6 +588,7 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 * E0553. 테슬라 로봇을 돈 값 못하게 사용하는 법 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0553.txt)**] [**[시청](https://youtu.be/HCSFs4iu3Wg)**]
 * E0554. 미리 reserve 안하는 넌 주니어 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0554.txt)**] [**[시청](https://youtu.be/9er81n6NyuM)**]
 * E0555. 고수 개발자들이 오픈소스 공헌 안 하는 이유 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0555.txt)**] [**[시청](https://youtu.be/PO9LcYzmy5E)**]
+* E0556. 프로그래밍 Best Practice 책 추천 목록! [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0556.txt)**] [**[시청](https://youtu.be/5RUzPm0jMUM)**]
 
 # 저작권
 이 리포에 있는 모든 파일의 저작권은 'Pope Kim'에게 있으며, 본 리포에 공헌하는 용도로만 사용하실 수 있습니다. 그 외 저작권자의 허락 없이 무단 전재, 복제 등을 금합니다.
