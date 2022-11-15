@@ -18,7 +18,7 @@
 YouTube가 자동 생성도 안 해줘서 외로운 자막입니다. ㅠ_ㅠ
 
 (총 2개)
-* E0300. 닥커, Azure, AWS [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0300.txt)**] [**[시청](https://youtu.be/rweZ2NvIM0Q)**]
+* E0300. 독커, Azure, AWS [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0300.txt)**] [**[시청](https://youtu.be/rweZ2NvIM0Q)**]
 * E0308. ORM: DB에 오브젝트를 쓰자 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0308.txt)**] [**[시청](https://youtu.be/B6iOqljc7U8)**]
 
 ## YouTube 자동 생성 자막
