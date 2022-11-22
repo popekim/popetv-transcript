@@ -17,8 +17,7 @@
 ## 아예 없는 자막
 YouTube가 자동 생성도 안 해줘서 외로운 자막입니다. ㅠ_ㅠ
 
-(총 2개)
-* E0300. 독커, Azure, AWS [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0300.txt)**] [**[시청](https://youtu.be/rweZ2NvIM0Q)**]
+(총 1개)
 * E0308. ORM: DB에 오브젝트를 쓰자 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0308.txt)**] [**[시청](https://youtu.be/B6iOqljc7U8)**]
 
 ## YouTube 자동 생성 자막
@@ -514,7 +513,7 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 ## 작업이 끝난 자막
 작업이 끝난 자막이지만 더 이쁘게 고쳐주시면 감사합니다. ^^
 
-(총 75개)
+(총 77개)
 * E0001. 프로그래머가 수학을 못하면 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0001.txt)**] [**[시청](https://youtu.be/yMQncICQFYs)**]
 * E0002. 텍스트 보단 비디오 (개국인사?) [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0002.txt)**] [**[시청](https://youtu.be/wjTL6-lKRIM)**]
 * E0003. 모바일게임이 천하를 평정할까? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0003.txt)**] [**[시청](https://youtu.be/TsmxaxoY7rY)**]
@@ -573,6 +572,7 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 * E0127. 라이프스타일과 야근 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0127.txt)**] [**[시청](https://youtu.be/sPN9cEI3QNc)**]
 * E0147. C++ 표준에 대한 불만 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0147.txt)**] [**[시청](https://youtu.be/lFlJuxxOoW8)**]
 * E0161. Helix 버전 컨트롤 시스템 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0161.txt)**] [**[시청](https://youtu.be/-RcRr6ClnLY)**]
+* E0300. 독커, Azure, AWS [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0300.txt)**] [**[시청](https://youtu.be/rweZ2NvIM0Q)**]
 * E0302. null이란 무엇인가? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0302.txt)**] [**[시청](https://youtu.be/N08BSA3rwhU)**]
 * E0335. 윈10 나이트 라이트 모드와 EyeLeo [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0335.txt)**] [**[시청](https://youtu.be/9aa1FPxhHOw)**]
 * E0481. 꿈과 야망을 강요하는 사회 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0481.txt)**] [**[시청](https://youtu.be/TfexLywi2bs)**]
