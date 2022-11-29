@@ -17,13 +17,13 @@
 ## 아예 없는 자막
 YouTube가 자동 생성도 안 해줘서 외로운 자막입니다. ㅠ_ㅠ
 
-(총 1개)
-* E0308. ORM: DB에 오브젝트를 쓰자 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0308.txt)**] [**[시청](https://youtu.be/B6iOqljc7U8)**]
+(총 0개)
+* 현재 없음
 
 ## YouTube 자동 생성 자막
 YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않은 자막입니다. 많은 사랑이 필요합니다.
 
-(총 319개)
+(총 317개)
 * E0085. HeartBleed와 오픈소스 프로그래머 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0085.txt)**] [**[시청](https://youtu.be/uaa2ppnoU8g)**]
 * E0086. 올바른 보너스 체계 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0086.txt)**] [**[시청](https://youtu.be/OHydjT3dGw0)**]
 * E0087. 변호사보다 잘 버는 프로그래머 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0087.txt)**] [**[시청](https://youtu.be/jez9EHEgSYk)**]
@@ -210,7 +210,6 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 * E0363. 좋은 키보드? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0363.txt)**] [**[시청](https://youtu.be/gGAaJMGb5RA)**]
 * E0367. 야근과 자기발전 2 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0367.txt)**] [**[시청](https://youtu.be/eEI5iwI0H0c)**]
 * E0370. 멘토 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0370.txt)**] [**[시청](https://youtu.be/SQmSI82vbIM)**]
-* E0372. 꼰대 꼰대질 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0372.txt)**] [**[시청](https://youtu.be/Bs0FsnBJHrg)**]
 * E0373. 비밀번호 규칙 창시자의 사과 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0373.txt)**] [**[시청](https://youtu.be/TUBObSU63rM)**]
 * E0374. 새 전자화폐: 포프코인 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0374.txt)**] [**[시청](https://youtu.be/ja5aY4qLysk)**]
 * E0375. TypeMock으로 유닛테스트를 간편히? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0375.txt)**] [**[시청](https://youtu.be/dlodz834S84)**]
@@ -247,7 +246,6 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 * E0414. 포프티비 검색엔진 소개 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0414.txt)**] [**[시청](https://youtu.be/7bhohKCFi-U)**]
 * E0415. 포프티비 검색엔진 (기술편) [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0415.txt)**] [**[시청](https://youtu.be/MElpgPM_Ic0)**]
 * E0417. 아이폰용 수도쿠 게임 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0417.txt)**] [**[시청](https://youtu.be/RPnA7Gd7mTI)**]
-* E0418. 전문용어 및 축약어 남발 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0418.txt)**] [**[시청](https://youtu.be/6Tnyls6-uCs)**]
 * E0419. Static HTML API 문서  만들기 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0419.txt)**] [**[시청](https://youtu.be/LR7GtVDuSlA)**]
 * E0420. 2018년 4월 강연 일정 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0420.txt)**] [**[시청](https://youtu.be/m2fD9OWsmuE)**]
 * E0425. 게임직군: 모델러 (캐릭터, 환경) [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0425.txt)**] [**[시청](https://youtu.be/FNuQBwkfd_w)**]
@@ -574,7 +572,10 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 * E0161. Helix 버전 컨트롤 시스템 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0161.txt)**] [**[시청](https://youtu.be/-RcRr6ClnLY)**]
 * E0300. 독커, Azure, AWS [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0300.txt)**] [**[시청](https://youtu.be/rweZ2NvIM0Q)**]
 * E0302. null이란 무엇인가? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0302.txt)**] [**[시청](https://youtu.be/N08BSA3rwhU)**]
+* E0308. ORM: DB에 오브젝트를 쓰자 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0308.txt)**] [**[시청](https://youtu.be/B6iOqljc7U8)**]
 * E0335. 윈10 나이트 라이트 모드와 EyeLeo [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0335.txt)**] [**[시청](https://youtu.be/9aa1FPxhHOw)**]
+* E0372. 꼰대 꼰대질 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0372.txt)**] [**[시청](https://youtu.be/Bs0FsnBJHrg)**]
+* E0418. 전문용어 및 축약어 남발 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0418.txt)**] [**[시청](https://youtu.be/6Tnyls6-uCs)**]
 * E0481. 꿈과 야망을 강요하는 사회 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0481.txt)**] [**[시청](https://youtu.be/TfexLywi2bs)**]
 * E0484. 면접관이 기술면접에서 보는 것 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0484.txt)**] [**[시청](https://youtu.be/QOqUrMzOTcw)**]
 * E0497. 전 실리콘밸리 기술이사가 말하는 회사 지분 vs 봉급 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0497.txt)**] [**[시청](https://youtu.be/ZTs5Tkw3Xzg)**]
