@@ -590,6 +590,7 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 * E0555. 고수 개발자들이 오픈소스 공헌 안 하는 이유 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0555.txt)**] [**[시청](https://youtu.be/PO9LcYzmy5E)**]
 * E0556. 프로그래밍 Best Practice 책 추천 목록! [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0556.txt)**] [**[시청](https://youtu.be/5RUzPm0jMUM)**]
 * E0557. 섣부른 최적화를 할 능력은 되고? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0557.txt)**] [**[시청](https://youtu.be/51OZz0I8REA)**]
+* E0558. json 떡칠 좀 그만! [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0558.txt)**] [**[시청](https://youtu.be/ulTMBIeA2FA)**]
 
 # 저작권
 이 리포에 있는 모든 파일의 저작권은 'Pope Kim'에게 있으며, 본 리포에 공헌하는 용도로만 사용하실 수 있습니다. 그 외 저작권자의 허락 없이 무단 전재, 복제 등을 금합니다.
