@@ -593,6 +593,7 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 * E0557. 섣부른 최적화를 할 능력은 되고? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0557.txt)**] [**[시청](https://youtu.be/51OZz0I8REA)**]
 * E0558. json 떡칠 좀 그만! [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0558.txt)**] [**[시청](https://youtu.be/ulTMBIeA2FA)**]
 * E0559. 자기 방어적 프로그래밍 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0559.txt)**] [**[시청](https://youtu.be/kMN1pLochj0)**]
+* E0560. 새새끼 프로그래머 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0560.txt)**] [**[시청](https://youtu.be/3AcMkpGQpjQ)**]
 
 # 저작권
 이 리포에 있는 모든 파일의 저작권은 'Pope Kim'에게 있으며, 본 리포에 공헌하는 용도로만 사용하실 수 있습니다. 그 외 저작권자의 허락 없이 무단 전재, 복제 등을 금합니다.
