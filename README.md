@@ -594,6 +594,8 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 * E0558. json 떡칠 좀 그만! [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0558.txt)**] [**[시청](https://youtu.be/ulTMBIeA2FA)**]
 * E0559. 자기 방어적 프로그래밍 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0559.txt)**] [**[시청](https://youtu.be/kMN1pLochj0)**]
 * E0560. 새새끼 프로그래머 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0560.txt)**] [**[시청](https://youtu.be/3AcMkpGQpjQ)**]
+* E0561. 테스트 코드 잘 짜는 프로그래머는 이걸 잘합니다 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0561.txt)**] [**[시청](https://youtu.be/VygGrcq0VX0)**]
+* E0562. if/else 로직 제대로 못짜면 주니어 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0562.txt)**] [**[시청](https://youtu.be/YWOxsQEGfVQ)**]
 
 # 저작권
 이 리포에 있는 모든 파일의 저작권은 'Pope Kim'에게 있으며, 본 리포에 공헌하는 용도로만 사용하실 수 있습니다. 그 외 저작권자의 허락 없이 무단 전재, 복제 등을 금합니다.
