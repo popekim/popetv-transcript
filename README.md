@@ -598,6 +598,8 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 * E0562. if/else 로직 제대로 못짜면 주니어 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0562.txt)**] [**[시청](https://youtu.be/YWOxsQEGfVQ)**]
 * E0563. 곧바로 취업되는 프로그래밍 언어, 가장 빨리 취업되는 공부법 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0563.txt)**] [**[시청](https://youtu.be/Np0sOJEm7mU)**]
 * E0564. 싱글톤 패턴은 안티 패턴인가? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0564.txt)**] [**[시청](https://youtu.be/4n-40Wahc50)**]
+* E0565. AI 기반 천사모드 검색엔진: 너무 한쪽에 치우치지 않은채 좋은 정보들을 얻을 수는 없을까? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0565.txt)**] [**[시청](https://youtu.be/bxvB4oJWbdE)**]
+* E0566. 취업 전에 반드시 알아야 하는 자료구조들 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0566.txt)**] [**[시청](https://youtu.be/9u4jL9hedPk)**]
 
 # 저작권
 이 리포에 있는 모든 파일의 저작권은 'Pope Kim'에게 있으며, 본 리포에 공헌하는 용도로만 사용하실 수 있습니다. 그 외 저작권자의 허락 없이 무단 전재, 복제 등을 금합니다.
