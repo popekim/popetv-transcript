@@ -23,8 +23,7 @@ YouTube가 자동 생성도 안 해줘서 외로운 자막입니다. ㅠ_ㅠ
 ## YouTube 자동 생성 자막
 YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않은 자막입니다. 많은 사랑이 필요합니다.
 
-(총 312개)
-* E0092. 프라우드넷을 인수하라 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0092.txt)**] [**[시청](https://youtu.be/0kqdnogk7K0)**]
+(총 311개)
 * E0094. 북미취업 가이드 그 후 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0094.txt)**] [**[시청](https://youtu.be/dVR_hhqrtHo)**]
 * E0095. X같은 프로페셔널리즘 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0095.txt)**] [**[시청](https://youtu.be/Clqu_ADA9EU)**]
 * E0096. 넥슨과 섬노예 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0096.txt)**] [**[시청](https://youtu.be/Po7INQYQRaY)**]
@@ -506,7 +505,7 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 ## 작업이 끝난 자막
 작업이 끝난 자막이지만 더 이쁘게 고쳐주시면 감사합니다. ^^
 
-(총 95개)
+(총 96개)
 * E0001. 프로그래머가 수학을 못하면 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0001.txt)**] [**[시청](https://youtu.be/yMQncICQFYs)**]
 * E0002. 텍스트 보단 비디오 (개국인사?) [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0002.txt)**] [**[시청](https://youtu.be/wjTL6-lKRIM)**]
 * E0003. 모바일게임이 천하를 평정할까? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0003.txt)**] [**[시청](https://youtu.be/TsmxaxoY7rY)**]
@@ -566,6 +565,7 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 * E0087. 변호사보다 잘 버는 프로그래머 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0087.txt)**] [**[시청](https://youtu.be/jez9EHEgSYk)**]
 * E0088. UI는 아트여야만 한다? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0088.txt)**] [**[시청](https://youtu.be/N-A5RUlpmuw)**]
 * E0089. 불로초를 찾다 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0089.txt)**] [**[시청](https://youtu.be/oQpbJGWNBLY)**]
+* E0092. 프라우드넷을 인수하라 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0092.txt)**] [**[시청](https://youtu.be/0kqdnogk7K0)**]
 * E0108. 야근과 자기발전 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0108.txt)**] [**[시청](https://youtu.be/UlqNxG95CRE)**]
 * E0127. 라이프스타일과 야근 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0127.txt)**] [**[시청](https://youtu.be/sPN9cEI3QNc)**]
 * E0147. C++ 표준에 대한 불만 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0147.txt)**] [**[시청](https://youtu.be/lFlJuxxOoW8)**]
