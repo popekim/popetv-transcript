@@ -23,8 +23,7 @@ YouTube가 자동 생성도 안 해줘서 외로운 자막입니다. ㅠ_ㅠ
 ## YouTube 자동 생성 자막
 YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않은 자막입니다. 많은 사랑이 필요합니다.
 
-(총 311개)
-* E0094. 북미취업 가이드 그 후 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0094.txt)**] [**[시청](https://youtu.be/dVR_hhqrtHo)**]
+(총 310개)
 * E0095. X같은 프로페셔널리즘 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0095.txt)**] [**[시청](https://youtu.be/Clqu_ADA9EU)**]
 * E0096. 넥슨과 섬노예 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0096.txt)**] [**[시청](https://youtu.be/Po7INQYQRaY)**]
 * E0098. Hi-Z 최적화 아이디어 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0098.txt)**] [**[시청](https://youtu.be/7XXSPRiJKjo)**]
@@ -339,7 +338,7 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 ## 문단 정리만 필요한 자막
 실제 사람이 제작한 자막이지만 제대로 문단정리가 안 되어 있는 자막입니다. 조금의 사랑이 필요합니다.
 
-(총 161개)
+(총 160개)
 * E0040. 물리기반 렌더링 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0040.txt)**] [**[시청](https://youtu.be/DIEv3Uw1leo)**]
 * E0046. Pair Programming 보다 나은 법 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0046.txt)**] [**[시청](https://youtu.be/ScMqFD8g3jU)**]
 * E0049. 스페셜리스트 vs 제너럴리스트 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0049.txt)**] [**[시청](https://youtu.be/9n--830SKk0)**]
@@ -373,7 +372,6 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 * E0090. Lockless 참조카운터? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0090.txt)**] [**[시청](https://youtu.be/6YBl-kX6FME)**]
 * E0091. 싱글스레드 게임루프 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0091.txt)**] [**[시청](https://youtu.be/szajbNjiERk)**]
 * E0093. 유토피아 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0093.txt)**] [**[시청](https://youtu.be/cRnITB0Y0nk)**]
-* E0097. 게임이 접히는 이유 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0097.txt)**] [**[시청](https://youtu.be/j1KkMMLAGZI)**]
 * E0106. 올바른 API 설계 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0106.txt)**] [**[시청](https://youtu.be/iDog_Vm_HAk)**]
 * E0111. 좋은 프로그래밍 언어와 기본동작 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0111.txt)**] [**[시청](https://youtu.be/99XbTaCJfhU)**]
 * E0114. 왜 아직도 float인가? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0114.txt)**] [**[시청](https://youtu.be/3CaVXKGRo-4)**]
@@ -505,7 +503,7 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 ## 작업이 끝난 자막
 작업이 끝난 자막이지만 더 이쁘게 고쳐주시면 감사합니다. ^^
 
-(총 96개)
+(총 99개)
 * E0001. 프로그래머가 수학을 못하면 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0001.txt)**] [**[시청](https://youtu.be/yMQncICQFYs)**]
 * E0002. 텍스트 보단 비디오 (개국인사?) [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0002.txt)**] [**[시청](https://youtu.be/wjTL6-lKRIM)**]
 * E0003. 모바일게임이 천하를 평정할까? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0003.txt)**] [**[시청](https://youtu.be/TsmxaxoY7rY)**]
@@ -566,6 +564,8 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 * E0088. UI는 아트여야만 한다? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0088.txt)**] [**[시청](https://youtu.be/N-A5RUlpmuw)**]
 * E0089. 불로초를 찾다 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0089.txt)**] [**[시청](https://youtu.be/oQpbJGWNBLY)**]
 * E0092. 프라우드넷을 인수하라 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0092.txt)**] [**[시청](https://youtu.be/0kqdnogk7K0)**]
+* E0094. 북미취업 가이드 그 후 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0094.txt)**] [**[시청](https://youtu.be/dVR_hhqrtHo)**]
+* E0097. 게임이 접히는 이유 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0097.txt)**] [**[시청](https://youtu.be/j1KkMMLAGZI)**]
 * E0108. 야근과 자기발전 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0108.txt)**] [**[시청](https://youtu.be/UlqNxG95CRE)**]
 * E0127. 라이프스타일과 야근 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0127.txt)**] [**[시청](https://youtu.be/sPN9cEI3QNc)**]
 * E0147. C++ 표준에 대한 불만 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0147.txt)**] [**[시청](https://youtu.be/lFlJuxxOoW8)**]
