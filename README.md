@@ -602,6 +602,7 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 * E0566. 취업 전에 반드시 알아야 하는 자료구조들 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0566.txt)**] [**[시청](https://youtu.be/9u4jL9hedPk)**]
 * E0567. 예민하다 못해 까탈스런 동료를 두면 좋은 점 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0567.txt)**] [**[시청](https://youtu.be/f3uXSVXwK-M)**]
 * E0568. 클린코드 때문에 취업 실패한 썰 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0568.txt)**] [**[시청](https://youtu.be/HoP8qWpucWA)**]
+* E0569. 도메인 지식만 많으면 넌 주니어 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0569.txt)**] [**[시청](https://youtu.be/uwbL-JljfAc)**]
 
 # 저작권
 이 리포에 있는 모든 파일의 저작권은 'Pope Kim'에게 있으며, 본 리포에 공헌하는 용도로만 사용하실 수 있습니다. 그 외 저작권자의 허락 없이 무단 전재, 복제 등을 금합니다.
