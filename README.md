@@ -503,7 +503,7 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 ## 작업이 끝난 자막
 작업이 끝난 자막이지만 더 이쁘게 고쳐주시면 감사합니다. ^^
 
-(총 100개)
+(총 101개)
 * E0001. 프로그래머가 수학을 못하면 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0001.txt)**] [**[시청](https://youtu.be/yMQncICQFYs)**]
 * E0002. 텍스트 보단 비디오 (개국인사?) [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0002.txt)**] [**[시청](https://youtu.be/wjTL6-lKRIM)**]
 * E0003. 모바일게임이 천하를 평정할까? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0003.txt)**] [**[시청](https://youtu.be/TsmxaxoY7rY)**]
@@ -604,6 +604,7 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 * E0568. 클린코드 때문에 취업 실패한 썰 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0568.txt)**] [**[시청](https://youtu.be/HoP8qWpucWA)**]
 * E0569. 도메인 지식만 많으면 넌 주니어 #도메인 #주니어 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0569.txt)**] [**[시청](https://youtu.be/uwbL-JljfAc)**]
 * E0570. 문서를 못쓰면 넌 주니어 #주니어 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0570.txt)**] [**[시청](https://youtu.be/2yxUkrCvNa8)**]
+* E0571. 문서는 웬만하면 마크다운(markdown)으로 씁시다 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0571.txt)**] [**[시청](https://youtu.be/8z2SRtYpJuQ)**]
 
 # 저작권
 이 리포에 있는 모든 파일의 저작권은 'Pope Kim'에게 있으며, 본 리포에 공헌하는 용도로만 사용하실 수 있습니다. 그 외 저작권자의 허락 없이 무단 전재, 복제 등을 금합니다.
