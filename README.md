@@ -23,7 +23,7 @@ YouTube가 자동 생성도 안 해줘서 외로운 자막입니다. ㅠ_ㅠ
 ## YouTube 자동 생성 자막
 YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않은 자막입니다. 많은 사랑이 필요합니다.
 
-(총 310개)
+(총 311개)
 * E0095. X같은 프로페셔널리즘 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0095.txt)**] [**[시청](https://youtu.be/Clqu_ADA9EU)**]
 * E0096. 넥슨과 섬노예 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0096.txt)**] [**[시청](https://youtu.be/Po7INQYQRaY)**]
 * E0098. Hi-Z 최적화 아이디어 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0098.txt)**] [**[시청](https://youtu.be/7XXSPRiJKjo)**]
@@ -334,6 +334,7 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 * E0544. 기발한 이름을 지으면 일어나는 일 (부제: 트라이의 어원) [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0544.txt)**] [**[시청](https://youtu.be/pWKTmA3zm8k)**]
 * E0545. 좋은 선생 vs 나쁜 선생 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0545.txt)**] [**[시청](https://youtu.be/oJsrWxIxuKw)**]
 * E0546. 도움 자료의 혜택을 받는 사람은 정해져 있다? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0546.txt)**] [**[시청](https://youtu.be/Acb9mnvqECQ)**]
+* E0574. Assert 어디에 넣을지 모르면 넌 주니어 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0574.txt)**] [**[시청](https://youtu.be/6ts1Uxp_i3w)**]
 
 ## 문단 정리만 필요한 자막
 실제 사람이 제작한 자막이지만 제대로 문단정리가 안 되어 있는 자막입니다. 조금의 사랑이 필요합니다.
@@ -503,7 +504,7 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 ## 작업이 끝난 자막
 작업이 끝난 자막이지만 더 이쁘게 고쳐주시면 감사합니다. ^^
 
-(총 102개)
+(총 108개)
 * E0001. 프로그래머가 수학을 못하면 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0001.txt)**] [**[시청](https://youtu.be/yMQncICQFYs)**]
 * E0002. 텍스트 보단 비디오 (개국인사?) [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0002.txt)**] [**[시청](https://youtu.be/wjTL6-lKRIM)**]
 * E0003. 모바일게임이 천하를 평정할까? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0003.txt)**] [**[시청](https://youtu.be/TsmxaxoY7rY)**]
@@ -606,6 +607,12 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 * E0570. 문서를 못쓰면 넌 주니어 #주니어 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0570.txt)**] [**[시청](https://youtu.be/2yxUkrCvNa8)**]
 * E0571. 문서는 웬만하면 마크다운(markdown)으로 씁시다 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0571.txt)**] [**[시청](https://youtu.be/8z2SRtYpJuQ)**]
 * E0572. 마크다운의 잘못된 스펙. 이렇게 고쳐볼까? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0572.txt)**] [**[시청](https://youtu.be/gxVBvis38us)**]
+* E0573. 스마트폰 알림 끄고 상사에게 칭찬 받는 법 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0573.txt)**] [**[시청](https://youtu.be/hb6Us_evNG8)**]
+* E0575. 이 코드 못 짜면 넌 주니어 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0575.txt)**] [**[시청](https://youtu.be/B0zU6v2nBdA)**]
+* E0576. 잊혀져 가는 중요한 프로그래밍 개념: 감시값 (sentinel value) [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0576.txt)**] [**[시청](https://youtu.be/xvqIEwmiSw4)**]
+* E0577. 함수, 이렇게 만들면 넌 주니어 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0577.txt)**] [**[시청](https://youtu.be/Wd6FJ1s_ZUc)**]
+* E0578. 더 많은 정보가 필요하면 넌 주니어 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0578.txt)**] [**[시청](https://youtu.be/fUCMIf_4Pnc)**]
+* E0579. 변화하는 코딩표준! Async 접미사! [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0579.txt)**] [**[시청](https://youtu.be/b49E0weZ8rI)**]
 
 # 저작권
 이 리포에 있는 모든 파일의 저작권은 'Pope Kim'에게 있으며, 본 리포에 공헌하는 용도로만 사용하실 수 있습니다. 그 외 저작권자의 허락 없이 무단 전재, 복제 등을 금합니다.
