@@ -23,7 +23,7 @@ YouTube가 자동 생성도 안 해줘서 외로운 자막입니다. ㅠ_ㅠ
 ## YouTube 자동 생성 자막
 YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않은 자막입니다. 많은 사랑이 필요합니다.
 
-(총 309개)
+(총 310개)
 * E0095. X같은 프로페셔널리즘 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0095.txt)**] [**[시청](https://youtu.be/Clqu_ADA9EU)**]
 * E0096. 넥슨과 섬노예 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0096.txt)**] [**[시청](https://youtu.be/Po7INQYQRaY)**]
 * E0098. Hi-Z 최적화 아이디어 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0098.txt)**] [**[시청](https://youtu.be/7XXSPRiJKjo)**]
@@ -333,6 +333,7 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 * E0543. 포프TV와  POCU 아카데미 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0543.txt)**] [**[시청](https://youtu.be/heXalPkAuJ4)**]
 * E0544. 기발한 이름을 지으면 일어나는 일 (부제: 트라이의 어원) [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0544.txt)**] [**[시청](https://youtu.be/pWKTmA3zm8k)**]
 * E0584. 한 방에 개발 환경 설정하기: Junction [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0584.txt)**] [**[시청](https://youtu.be/uj478rwayAU)**]
+* E0585. 효율적인 Git 리포 관리: 서브모듈 대신 이것을 사용하면...? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0585.txt)**] [**[시청](https://youtu.be/IzSAZ0QvBVQ)**]
 
 ## 문단 정리만 필요한 자막
 실제 사람이 제작한 자막이지만 제대로 문단정리가 안 되어 있는 자막입니다. 조금의 사랑이 필요합니다.
