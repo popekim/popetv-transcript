@@ -500,7 +500,7 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 ## 작업이 끝난 자막
 작업이 끝난 자막이지만 더 이쁘게 고쳐주시면 감사합니다. ^^
 
-(총 120개)
+(총 123개)
 * E0001. 프로그래머가 수학을 못하면 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0001.txt)**] [**[시청](https://youtu.be/yMQncICQFYs)**]
 * E0002. 텍스트 보단 비디오 (개국인사?) [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0002.txt)**] [**[시청](https://youtu.be/wjTL6-lKRIM)**]
 * E0003. 모바일게임이 천하를 평정할까? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0003.txt)**] [**[시청](https://youtu.be/TsmxaxoY7rY)**]
@@ -621,6 +621,9 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 * E0585. 효율적인 Git 리포 관리: 서브모듈 대신 이것을 사용하면...? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0585.txt)**] [**[시청](https://youtu.be/IzSAZ0QvBVQ)**]
 * E0586. Git Sparse Checkout과 LFS: 모노리포 관리의 최적 솔루션 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0586.txt)**] [**[시청](https://youtu.be/JxXPsMtfGiM)**]
 * E0587. 회사의 피드백: 주니어에서 벗어나기 위한 조언 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0587.txt)**] [**[시청](https://youtu.be/eRQwxz8YcT4)**]
+* E0588. 진정한 1인분의 의미: 협업과 책임의 중요성 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0588.txt)**] [**[시청](https://youtu.be/1dHD4aBXO24)**]
+* E0589. 왜 배열은 0부터 시작할까? 프로그래밍의 비밀 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0589.txt)**] [**[시청](https://youtu.be/TjpP1udN58k)**]
+* E0590. 이메일 관리는 하나로 충분합니다 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0590.txt)**] [**[시청](https://youtu.be/Cs7FP28DG74)**]
 
 # 저작권
 이 리포에 있는 모든 파일의 저작권은 'Pope Kim'에게 있으며, 본 리포에 공헌하는 용도로만 사용하실 수 있습니다. 그 외 저작권자의 허락 없이 무단 전재, 복제 등을 금합니다.
