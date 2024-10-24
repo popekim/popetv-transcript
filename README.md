@@ -500,7 +500,7 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 ## 작업이 끝난 자막
 작업이 끝난 자막이지만 더 이쁘게 고쳐주시면 감사합니다. ^^
 
-(총 126개)
+(총 129개)
 * E0001. 프로그래머가 수학을 못하면 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0001.txt)**] [**[시청](https://youtu.be/yMQncICQFYs)**]
 * E0002. 텍스트 보단 비디오 (개국인사?) [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0002.txt)**] [**[시청](https://youtu.be/wjTL6-lKRIM)**]
 * E0003. 모바일게임이 천하를 평정할까? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0003.txt)**] [**[시청](https://youtu.be/TsmxaxoY7rY)**]
@@ -627,6 +627,9 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 * E0591. AI가 바꿀 미래: 당신의 직업은 안전합니까? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0591.txt)**] [**[시청](https://youtu.be/KB-sdBLs4nY)**]
 * E0592. ChatGPT를 찬양하면 생기는 일 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0592.txt)**] [**[시청](https://youtu.be/EhSaUvhSI5I)**]
 * E0593. 탑 개발자의 생산성을 100배 올리는 가성비 최고 AI 도구 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0593.txt)**] [**[시청](https://youtu.be/c9QvzMbln54)**]
+* E0594. AI 도구 사용, 개발자에게 독인가 약인가? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0594.txt)**] [**[시청](https://youtu.be/tv6FNdhPpZo)**]
+* E0595. 버그를 유발하는 enum의 괴상한 기본 동작 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0595.txt)**] [**[시청](https://youtu.be/I0QxuOl01KE)**]
+* E0596. 개발자가 전문가가 되는 방법! 필수 조건 3가지! [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0596.txt)**] [**[시청](https://youtu.be/8Sd1Oy9GUJk)**]
 
 # 저작권
 이 리포에 있는 모든 파일의 저작권은 'Pope Kim'에게 있으며, 본 리포에 공헌하는 용도로만 사용하실 수 있습니다. 그 외 저작권자의 허락 없이 무단 전재, 복제 등을 금합니다.
