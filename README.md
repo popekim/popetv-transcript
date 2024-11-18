@@ -500,7 +500,7 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 ## 작업이 끝난 자막
 작업이 끝난 자막이지만 더 이쁘게 고쳐주시면 감사합니다. ^^
 
-(총 134개)
+(총 139개)
 * E0001. 프로그래머가 수학을 못하면 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0001.txt)**] [**[시청](https://youtu.be/yMQncICQFYs)**]
 * E0002. 텍스트 보단 비디오 (개국인사?) [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0002.txt)**] [**[시청](https://youtu.be/wjTL6-lKRIM)**]
 * E0003. 모바일게임이 천하를 평정할까? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0003.txt)**] [**[시청](https://youtu.be/TsmxaxoY7rY)**]
@@ -635,6 +635,11 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 * E0599. 전 이제 DB 스크립트 버전 관리 안 하려고요 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0599.txt)**] [**[시청](https://youtu.be/7QrDlon3F54)**]
 * E0600. [코딩표준] DateTime.Now를 절대 쓰지 않는 이유 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0600.txt)**] [**[시청](https://youtu.be/FsnfNFdKNcA)**]
 * E0601. [코딩표준] 왜 C#의 새 문법을 금지했을까? 물음표 연산자 금지 이유 공개 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0601.txt)**] [**[시청](https://youtu.be/7Wbhwq8-5K4)**]
+* E0602. [코딩표준] 왜 스트링 함수를 그대로 쓰면 안 되나? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0602.txt)**] [**[시청](https://youtu.be/1S8bMBG8-88)**]
+* E0603. [코딩표준] TODO 주석도 룰이 있다고? 이게 진짜 중요합니다! [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0603.txt)**] [**[시청](https://youtu.be/vWGctKunvoI)**]
+* E0604. [코딩표준] 반올림도 마음대로 못한다고? Round() 함수 사용 금지 이유! [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0604.txt)**] [**[시청](https://youtu.be/D87AE7QtenU)**]
+* E0605. [코딩표준] HTML 줄바꿈 태그, 이렇게 통일했습니다 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0605.txt)**] [**[시청](https://youtu.be/MW8vyb62YFE)**]
+* E0606. [코딩표준] 타입 추론은 왜 안 쓰나요? 저희 회사의 엄격한 코딩 표준 이야기 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0606.txt)**] [**[시청](https://youtu.be/Z_CwP9wdd3g)**]
 
 # 저작권
 이 리포에 있는 모든 파일의 저작권은 'Pope Kim'에게 있으며, 본 리포에 공헌하는 용도로만 사용하실 수 있습니다. 그 외 저작권자의 허락 없이 무단 전재, 복제 등을 금합니다.
