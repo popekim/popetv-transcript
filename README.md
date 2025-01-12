@@ -500,7 +500,7 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 ## 작업이 끝난 자막
 작업이 끝난 자막이지만 더 이쁘게 고쳐주시면 감사합니다. ^^
 
-(총 143개)
+(총 145개)
 * E0001. 프로그래머가 수학을 못하면 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0001.txt)**] [**[시청](https://youtu.be/yMQncICQFYs)**]
 * E0002. 텍스트 보단 비디오 (개국인사?) [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0002.txt)**] [**[시청](https://youtu.be/wjTL6-lKRIM)**]
 * E0003. 모바일게임이 천하를 평정할까? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0003.txt)**] [**[시청](https://youtu.be/TsmxaxoY7rY)**]
@@ -644,6 +644,8 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 * E0608. [코딩표준] using 블록을 강제하는 이유 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0608.txt)**] [**[시청](https://youtu.be/1mX94jx-SQ8)**]
 * E0609. [코딩표준] 많이 느리지 않고 실수를 막아주는 배열 초기화 방법 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0609.txt)**] [**[시청](https://youtu.be/fzUWfBV7_2Q)**]
 * E0610. 어설트(Assert) 사용 시 저지르는 치명적인 실수! 누구나 한 번은 한다는데... [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0610.txt)**] [**[시청](https://youtu.be/3ydH14AFhMQ)**]
+* E0611. 정규식(Regex)을 쓸 때는 이렇게! [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0611.txt)**] [**[시청](https://youtu.be/BEMKahp778M)**]
+* E0612. 유닛테스트 찬양했다가 짤린 주니어 프로그래머 이야기 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0612.txt)**] [**[시청](https://youtu.be/KnXXzITTsK8)**]
 
 # 저작권
 이 리포에 있는 모든 파일의 저작권은 'Pope Kim'에게 있으며, 본 리포에 공헌하는 용도로만 사용하실 수 있습니다. 그 외 저작권자의 허락 없이 무단 전재, 복제 등을 금합니다.
