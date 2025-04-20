@@ -498,7 +498,7 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 ## 작업이 끝난 자막
 작업이 끝난 자막이지만 더 이쁘게 고쳐주시면 감사합니다. ^^
 
-(총 148개)
+(총 163개)
 * E0001. 프로그래머가 수학을 못하면 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0001.txt)**] [**[시청](https://youtu.be/yMQncICQFYs)**]
 * E0002. 텍스트 보단 비디오 (개국인사?) [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0002.txt)**] [**[시청](https://youtu.be/wjTL6-lKRIM)**]
 * E0003. 모바일게임이 천하를 평정할까? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0003.txt)**] [**[시청](https://youtu.be/TsmxaxoY7rY)**]
@@ -647,6 +647,21 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 * E0611. 정규식(Regex)을 쓸 때는 이렇게! [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0611.txt)**] [**[시청](https://youtu.be/BEMKahp778M)**]
 * E0612. 유닛테스트 찬양했다가 짤린 주니어 프로그래머 이야기 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0612.txt)**] [**[시청](https://youtu.be/KnXXzITTsK8)**]
 * E0613. 이 정도 자동화 테스트를 해도 유닛 테스트가 필요할까? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0613.txt)**] [**[시청](https://youtu.be/E_j3zK1h3zs)**]
+* E0614. 48시간 자동 테스트 돌리던 게임 회사의 품질 관리 비결! [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0614.txt)**] [**[시청](https://youtu.be/pzH7u0ZSAg4)**]
+* E0615. 겨울에 집이 건조한 진짜 이유! (캐나다에서 깨달은 과학) [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0615.txt)**] [**[시청](https://youtu.be/XK46anvBRJ0)**]
+* E0616. 애자일 에스티메이션의 함정과 대안: 프로젝트 관리의 핵심! [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0616.txt)**] [**[시청](https://youtu.be/_iDgRoeWCRg)**]
+* E0617. 버그는 0개로 유지해야 합니다. 이런 서비스라면 말이죠 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0617.txt)**] [**[시청](https://youtu.be/5d5aA-XHwxI)**]
+* E0618. 첫 직장이 별로라면? 이렇게 하세요 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0618.txt)**] [**[시청](https://youtu.be/flo9XZCPPKw)**]
+* E0619. 대기업의 재택근무: 눈치보기 게임의 실체 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0619.txt)**] [**[시청](https://youtu.be/cbEVdC610vE)**]
+* E0620. 과체중과 프로그래밍의 관계? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0620.txt)**] [**[시청](https://youtu.be/pgsb2lMFgis)**]
+* E0621. 어설트(ASSERT) 꿀팁! 팀별·개인별로 관리하는 법" [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0621.txt)**] [**[시청](https://youtu.be/mjb-jltmMoc)**]
+* E0622. 개발자의 AI 사용, 보안은 환상일까? 회사에서 진짜 막을 수 있을까? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0622.txt)**] [**[시청](https://youtu.be/4YEpu9jI5WE)**]
+* E0623. 가독성 좋은 GUID, 왜 RDBMS에서 이렇게 유용해졌을까? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0623.txt)**] [**[시청](https://youtu.be/ekwNi5_u72I)**]
+* E0624. 노트 정리 & 회사 문서화 & 프로젝트 관리, 이거면 충분! [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0624.txt)**] [**[시청](https://youtu.be/iE7N5RlM13E)**]
+* E0625. 라이브 DB를 드랍한 주니어 개발자의 최후 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0625.txt)**] [**[시청](https://youtu.be/lpZzBUuLjgI)**]
+* E0626. DB PK로 사용해도 되는 GUID, UUID7은 축복인가 vs 폭탄인가? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0626.txt)**] [**[시청](https://youtu.be/PQOcbo2NqMw)**]
+* E0627. 퇴근 전에 이거 하지 마세요! 민폐 끼치는 개발자의 특징 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0627.txt)**] [**[시청](https://youtu.be/sSfCpIajhXM)**]
+* E0628. 기분 나쁜 끈적한 알고리즘들: 비트코인, GUID, 암호화 등 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0628.txt)**] [**[시청](https://youtu.be/IW6plpfIAHY)**]
 
 # 저작권
 이 리포에 있는 모든 파일의 저작권은 'Pope Kim'에게 있으며, 본 리포에 공헌하는 용도로만 사용하실 수 있습니다. 그 외 저작권자의 허락 없이 무단 전재, 복제 등을 금합니다.
