@@ -498,7 +498,7 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 ## 작업이 끝난 자막
 작업이 끝난 자막이지만 더 이쁘게 고쳐주시면 감사합니다. ^^
 
-(총 163개)
+(총 165개)
 * E0001. 프로그래머가 수학을 못하면 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0001.txt)**] [**[시청](https://youtu.be/yMQncICQFYs)**]
 * E0002. 텍스트 보단 비디오 (개국인사?) [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0002.txt)**] [**[시청](https://youtu.be/wjTL6-lKRIM)**]
 * E0003. 모바일게임이 천하를 평정할까? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0003.txt)**] [**[시청](https://youtu.be/TsmxaxoY7rY)**]
@@ -662,6 +662,8 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 * E0626. DB PK로 사용해도 되는 GUID, UUID7은 축복인가 vs 폭탄인가? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0626.txt)**] [**[시청](https://youtu.be/PQOcbo2NqMw)**]
 * E0627. 퇴근 전에 이거 하지 마세요! 민폐 끼치는 개발자의 특징 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0627.txt)**] [**[시청](https://youtu.be/sSfCpIajhXM)**]
 * E0628. 기분 나쁜 끈적한 알고리즘들: 비트코인, GUID, 암호화 등 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0628.txt)**] [**[시청](https://youtu.be/IW6plpfIAHY)**]
+* E0629. 스타트업 API 고쳐줬더니 돌아온 건 짜증 뿐이었다 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0629.txt)**] [**[시청](https://youtu.be/ql8s_mpANcw)**]
+* E0630. 이 변수명은 읽기 힘듭니다 – 망하는 변수명 패턴들 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0630.txt)**] [**[시청](https://youtu.be/AhnU8uJB2Yk)**]
 
 # 저작권
 이 리포에 있는 모든 파일의 저작권은 'Pope Kim'에게 있으며, 본 리포에 공헌하는 용도로만 사용하실 수 있습니다. 그 외 저작권자의 허락 없이 무단 전재, 복제 등을 금합니다.
