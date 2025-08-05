@@ -498,7 +498,7 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 ## 작업이 끝난 자막
 작업이 끝난 자막이지만 더 이쁘게 고쳐주시면 감사합니다. ^^
 
-(총 165개)
+(총 168개)
 * E0001. 프로그래머가 수학을 못하면 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0001.txt)**] [**[시청](https://youtu.be/yMQncICQFYs)**]
 * E0002. 텍스트 보단 비디오 (개국인사?) [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0002.txt)**] [**[시청](https://youtu.be/wjTL6-lKRIM)**]
 * E0003. 모바일게임이 천하를 평정할까? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0003.txt)**] [**[시청](https://youtu.be/TsmxaxoY7rY)**]
@@ -664,6 +664,9 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 * E0628. 기분 나쁜 끈적한 알고리즘들: 비트코인, GUID, 암호화 등 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0628.txt)**] [**[시청](https://youtu.be/IW6plpfIAHY)**]
 * E0629. 스타트업 API 고쳐줬더니 돌아온 건 짜증 뿐이었다 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0629.txt)**] [**[시청](https://youtu.be/ql8s_mpANcw)**]
 * E0630. 이 변수명은 읽기 힘듭니다 – 망하는 변수명 패턴들 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0630.txt)**] [**[시청](https://youtu.be/AhnU8uJB2Yk)**]
+* E0631. 약팔이를 구별하는 가장 쉬운 방법 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0631.txt)**] [**[시청](https://youtu.be/SgIvwvCOGCk)**]
+* E0632. ‘마스터리스트’ 없이 시작하면 반드시 망합니다 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0632.txt)**] [**[시청](https://youtu.be/ht5VHA4UjUU)**]
+* E0633. 회사 가기 싫을 땐? 그냥 ‘이거’부터 하세요 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0633.txt)**] [**[시청](https://youtu.be/hlUJBxtw5rs)**]
 
 # 저작권
 이 리포에 있는 모든 파일의 저작권은 'Pope Kim'에게 있으며, 본 리포에 공헌하는 용도로만 사용하실 수 있습니다. 그 외 저작권자의 허락 없이 무단 전재, 복제 등을 금합니다.
