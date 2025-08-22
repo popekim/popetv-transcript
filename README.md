@@ -14,18 +14,10 @@
 * 혹시 맞춤법 검사가 필요하다면 [다음 맞춤법 검사기](https://alldic.daum.net/grammar_checker.do)를 사용하세요. (일부로 맞춤법을 틀리는 건 상관없습니다)
 
 # 공헌이 필요한 자막 목록
-## 아예 없는 자막
-YouTube가 자동 생성도 안 해줘서 외로운 자막입니다. ㅠ_ㅠ
+## 자동 생성 자막
+기계가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않은 자막입니다. 많은 사랑이 필요합니다.
 
-(총 0개)
-* 현재 없음
-
-## YouTube 자동 생성 자막
-YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않은 자막입니다. 많은 사랑이 필요합니다.
-
-(총 304개)
-* E0098. Hi-Z 최적화 아이디어 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0098.txt)**] [**[시청](https://youtu.be/7XXSPRiJKjo)**]
-* E0099. 텍스처 품질향상 꼼수 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0099.txt)**] [**[시청](https://youtu.be/b8UdZh4e7tY)**]
+(총 302개)
 * E0100. 100회 기념, 대마법사, 오해를 풀자 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0100.txt)**] [**[시청](https://youtu.be/8LPwmHQi3sQ)**]
 * E0101. 공부잘하는 친구를 사랑하라 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0101.txt)**] [**[시청](https://youtu.be/bQMgInFW8TA)**]
 * E0102. 게임 프로그래머를 관두는 이유 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0102.txt)**] [**[시청](https://youtu.be/0fzg1kL0Y2U)**]
@@ -491,7 +483,7 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 ## 작업이 끝난 자막
 작업이 끝난 자막이지만 더 이쁘게 고쳐주시면 감사합니다. ^^
 
-(총 175개)
+(총 177개)
 * E0001. 프로그래머가 수학을 못하면 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0001.txt)**] [**[시청](https://youtu.be/yMQncICQFYs)**]
 * E0002. 텍스트 보단 비디오 (개국인사?) [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0002.txt)**] [**[시청](https://youtu.be/wjTL6-lKRIM)**]
 * E0003. 모바일게임이 천하를 평정할까? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0003.txt)**] [**[시청](https://youtu.be/TsmxaxoY7rY)**]
@@ -562,6 +554,8 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 * E0095. X같은 프로페셔널리즘 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0095.txt)**] [**[시청](https://youtu.be/Clqu_ADA9EU)**]
 * E0096. 넥슨과 섬노예 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0096.txt)**] [**[시청](https://youtu.be/Po7INQYQRaY)**]
 * E0097. 게임이 접히는 이유 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0097.txt)**] [**[시청](https://youtu.be/j1KkMMLAGZI)**]
+* E0098. Hi-Z 최적화 아이디어 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0098.txt)**] [**[시청](https://youtu.be/7XXSPRiJKjo)**]
+* E0099. 텍스처 품질향상 꼼수 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0099.txt)**] [**[시청](https://youtu.be/b8UdZh4e7tY)**]
 * E0108. 야근과 자기발전 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0108.txt)**] [**[시청](https://youtu.be/UlqNxG95CRE)**]
 * E0127. 라이프스타일과 야근 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0127.txt)**] [**[시청](https://youtu.be/sPN9cEI3QNc)**]
 * E0147. C++ 표준에 대한 불만 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0147.txt)**] [**[시청](https://youtu.be/lFlJuxxOoW8)**]
