@@ -23,8 +23,7 @@ YouTube가 자동 생성도 안 해줘서 외로운 자막입니다. ㅠ_ㅠ
 ## YouTube 자동 생성 자막
 YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않은 자막입니다. 많은 사랑이 필요합니다.
 
-(총 305개)
-* E0096. 넥슨과 섬노예 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0096.txt)**] [**[시청](https://youtu.be/Po7INQYQRaY)**]
+(총 304개)
 * E0098. Hi-Z 최적화 아이디어 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0098.txt)**] [**[시청](https://youtu.be/7XXSPRiJKjo)**]
 * E0099. 텍스처 품질향상 꼼수 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0099.txt)**] [**[시청](https://youtu.be/b8UdZh4e7tY)**]
 * E0100. 100회 기념, 대마법사, 오해를 풀자 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0100.txt)**] [**[시청](https://youtu.be/8LPwmHQi3sQ)**]
@@ -333,13 +332,7 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 ## 문단 정리만 필요한 자막
 실제 사람이 제작한 자막이지만 제대로 문단정리가 안 되어 있는 자막입니다. 조금의 사랑이 필요합니다.
 
-(총 160개)
-* E0040. 물리기반 렌더링 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0040.txt)**] [**[시청](https://youtu.be/DIEv3Uw1leo)**]
-* E0046. Pair Programming 보다 나은 법 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0046.txt)**] [**[시청](https://youtu.be/ScMqFD8g3jU)**]
-* E0049. 스페셜리스트 vs 제너럴리스트 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0049.txt)**] [**[시청](https://youtu.be/9n--830SKk0)**]
-* E0050. 슈팅게임 알고리듬 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0050.txt)**] [**[시청](https://youtu.be/NgFp5D1trAA)**]
-* E0051. C#이 C++보다 빨라진다? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0051.txt)**] [**[시청](https://youtu.be/K0RDs8705WE)**]
-* E0053. 새로운 메모리 디버깅 기능? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0053.txt)**] [**[시청](https://youtu.be/po0zv1ZxkFw)**]
+(총 154개)
 * E0057. 내가 쓰는 C++11: Range-Based For [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0057.txt)**] [**[시청](https://youtu.be/sVoz36DYK5s)**]
 * E0058. 부모님께 효도하는 법 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0058.txt)**] [**[시청](https://youtu.be/S6fWag_TF5A)**]
 * E0059. 포인터의 필요성 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0059.txt)**] [**[시청](https://youtu.be/V6IJ8M13JIU)**]
@@ -498,7 +491,7 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 ## 작업이 끝난 자막
 작업이 끝난 자막이지만 더 이쁘게 고쳐주시면 감사합니다. ^^
 
-(총 168개)
+(총 175개)
 * E0001. 프로그래머가 수학을 못하면 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0001.txt)**] [**[시청](https://youtu.be/yMQncICQFYs)**]
 * E0002. 텍스트 보단 비디오 (개국인사?) [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0002.txt)**] [**[시청](https://youtu.be/wjTL6-lKRIM)**]
 * E0003. 모바일게임이 천하를 평정할까? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0003.txt)**] [**[시청](https://youtu.be/TsmxaxoY7rY)**]
@@ -538,14 +531,20 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 * E0037. 포프의 시간관리법 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0037.txt)**] [**[시청](https://youtu.be/GYkEvhwh2b0)**]
 * E0038. 야근에 대해 말해보자 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0038.txt)**] [**[시청](https://youtu.be/XBHS9r-z80U)**]
 * E0039. 책자랑: HLSL 개발 조리법 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0039.txt)**] [**[시청](https://youtu.be/IXGTaI2zjOc)**]
+* E0040. 물리기반 렌더링 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0040.txt)**] [**[시청](https://youtu.be/DIEv3Uw1leo)**]
 * E0041. 추천 유틸리티 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0041.txt)**] [**[시청](https://youtu.be/6-S7PRLVDRw)**]
 * E0042. 회사에서 원하는 프로그래머 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0042.txt)**] [**[시청](https://youtu.be/0Il35gQMyZA)**]
 * E0043. 데이터 중심 디자인 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0043.txt)**] [**[시청](https://youtu.be/OykXe9F5IFk)**]
 * E0044. C# 하악하악~ [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0044.txt)**] [**[시청](https://youtu.be/C_FKj9lSvmM)**]
 * E0045. 번역자 되는법 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0045.txt)**] [**[시청](https://youtu.be/p-975o4VjIM)**]
+* E0046. Pair Programming 보다 나은 법 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0046.txt)**] [**[시청](https://youtu.be/ScMqFD8g3jU)**]
 * E0047. KGC 후기를 가장한 뇌물광고.. (응?) [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0047.txt)**] [**[시청](https://youtu.be/zCrMzOtM4R0)**]
 * E0048. 언리얼 엔진에서 지원하는 머테리얼 레이어 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0048.txt)**] [**[시청](https://youtu.be/MlqMUdkItcY)**]
+* E0049. 스페셜리스트 vs 제너럴리스트 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0049.txt)**] [**[시청](https://youtu.be/9n--830SKk0)**]
+* E0050. 슈팅게임 알고리듬 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0050.txt)**] [**[시청](https://youtu.be/NgFp5D1trAA)**]
+* E0051. C#이 C++보다 빨라진다? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0051.txt)**] [**[시청](https://youtu.be/K0RDs8705WE)**]
 * E0052. 게임프로그래머가 되는 이유 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0052.txt)**] [**[시청](https://youtu.be/RuXTmcypGNo)**]
+* E0053. 새로운 메모리 디버깅 기능? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0053.txt)**] [**[시청](https://youtu.be/po0zv1ZxkFw)**]
 * E0054. 버전컨트롤 시스템 쓰세요 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0054.txt)**] [**[시청](https://youtu.be/VLKsntz2ga0)**]
 * E0055. 신년계획 따윈 세워서 뭐하나? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0055.txt)**] [**[시청](https://youtu.be/NgIC_M2GsdU)**]
 * E0056. 규칙을 지키는 놈만 손해다? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0056.txt)**] [**[시청](https://youtu.be/Dos6h0J5ro0)**]
@@ -561,6 +560,7 @@ YouTube가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않�
 * E0092. 프라우드넷을 인수하라 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0092.txt)**] [**[시청](https://youtu.be/0kqdnogk7K0)**]
 * E0094. 북미취업 가이드 그 후 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0094.txt)**] [**[시청](https://youtu.be/dVR_hhqrtHo)**]
 * E0095. X같은 프로페셔널리즘 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0095.txt)**] [**[시청](https://youtu.be/Clqu_ADA9EU)**]
+* E0096. 넥슨과 섬노예 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0096.txt)**] [**[시청](https://youtu.be/Po7INQYQRaY)**]
 * E0097. 게임이 접히는 이유 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0097.txt)**] [**[시청](https://youtu.be/j1KkMMLAGZI)**]
 * E0108. 야근과 자기발전 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0108.txt)**] [**[시청](https://youtu.be/UlqNxG95CRE)**]
 * E0127. 라이프스타일과 야근 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0127.txt)**] [**[시청](https://youtu.be/sPN9cEI3QNc)**]
