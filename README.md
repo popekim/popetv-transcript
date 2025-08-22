@@ -17,7 +17,7 @@
 ## 자동 생성 자막
 기계가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않은 자막입니다. 많은 사랑이 필요합니다.
 
-(총 302개)
+(총 297개)
 * E0100. 100회 기념, 대마법사, 오해를 풀자 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0100.txt)**] [**[시청](https://youtu.be/8LPwmHQi3sQ)**]
 * E0101. 공부잘하는 친구를 사랑하라 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0101.txt)**] [**[시청](https://youtu.be/bQMgInFW8TA)**]
 * E0102. 게임 프로그래머를 관두는 이유 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0102.txt)**] [**[시청](https://youtu.be/0fzg1kL0Y2U)**]
@@ -279,11 +279,6 @@
 * E0487. 패스워드 관리 프로그램 비교 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0487.txt)**] [**[시청](https://youtu.be/d2xMOZgqidI)**]
 * E0488. 팀 패스워드 관리 이렇게 하면 될까? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0488.txt)**] [**[시청](https://youtu.be/lbaf2bupbQY)**]
 * E0489. 까 먹는 프로그래밍 언어? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0489.txt)**] [**[시청](https://youtu.be/SVftm_G0sLQ)**]
-* E0491. 아니, 너만 틀리다니까? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0491.txt)**] [**[시청](https://youtu.be/Bpwg2MVAEUQ)**]
-* E0495. 면접 가다가 똥 맞다 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0495.txt)**] [**[시청](https://youtu.be/S_FWYyezGb4)**]
-* E0496. 북미개발자의 개발용 노트북 추천 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0496.txt)**] [**[시청](https://youtu.be/ffMt1B_ToJM)**]
-* E0498. 반드시 알아야 할 비지니스 영어 축약어 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0498.txt)**] [**[시청](https://youtu.be/DNBPPLRFZM8)**]
-* E0499. 올바른 변수 이름 짓는 법 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0499.txt)**] [**[시청](https://youtu.be/ZtkIwGZZAq8)**]
 * E0501. 정말 기이한 직장동료 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0501.txt)**] [**[시청](https://youtu.be/MGiWMUVSj3I)**]
 * E0502. 아마존은 연봉 적게 주는 나쁜 회사? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0502.txt)**] [**[시청](https://youtu.be/F4XsJXp6-XE)**]
 * E0503. 외주자는 회사정치에 신경 안 씁니다 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0503.txt)**] [**[시청](https://youtu.be/Ey9Vq-5DbOA)**]
@@ -483,7 +478,7 @@
 ## 작업이 끝난 자막
 작업이 끝난 자막이지만 더 이쁘게 고쳐주시면 감사합니다. ^^
 
-(총 177개)
+(총 182개)
 * E0001. 프로그래머가 수학을 못하면 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0001.txt)**] [**[시청](https://youtu.be/yMQncICQFYs)**]
 * E0002. 텍스트 보단 비디오 (개국인사?) [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0002.txt)**] [**[시청](https://youtu.be/wjTL6-lKRIM)**]
 * E0003. 모바일게임이 천하를 평정할까? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0003.txt)**] [**[시청](https://youtu.be/TsmxaxoY7rY)**]
@@ -570,7 +565,12 @@
 * E0481. 꿈과 야망을 강요하는 사회 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0481.txt)**] [**[시청](https://youtu.be/TfexLywi2bs)**]
 * E0484. 면접관이 기술면접에서 보는 것 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0484.txt)**] [**[시청](https://youtu.be/QOqUrMzOTcw)**]
 * E0490. 업무대화 중 소설 안 쓰는 방법 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0490.txt)**] [**[시청](https://youtu.be/XdKcH8Kt2OQ)**]
+* E0491. 아니, 너만 틀리다니까? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0491.txt)**] [**[시청](https://youtu.be/Bpwg2MVAEUQ)**]
+* E0495. 면접 가다가 똥 맞다 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0495.txt)**] [**[시청](https://youtu.be/S_FWYyezGb4)**]
+* E0496. 북미개발자의 개발용 노트북 추천 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0496.txt)**] [**[시청](https://youtu.be/ffMt1B_ToJM)**]
 * E0497. 전 실리콘밸리 기술이사가 말하는 회사 지분 vs 봉급 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0497.txt)**] [**[시청](https://youtu.be/ZTs5Tkw3Xzg)**]
+* E0498. 반드시 알아야 할 비지니스 영어 축약어 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0498.txt)**] [**[시청](https://youtu.be/DNBPPLRFZM8)**]
+* E0499. 올바른 변수 이름 짓는 법 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0499.txt)**] [**[시청](https://youtu.be/ZtkIwGZZAq8)**]
 * E0531. OOP는 허접한 개발자 때문에 발전했다? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0531.txt)**] [**[시청](https://youtu.be/oHaGgLRZy3Y)**]
 * E0545. 좋은 선생 vs 나쁜 선생 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0545.txt)**] [**[시청](https://youtu.be/oJsrWxIxuKw)**]
 * E0546. 도움 자료의 혜택을 받는 사람은 정해져 있다? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0546.txt)**] [**[시청](https://youtu.be/Acb9mnvqECQ)**]
