@@ -17,10 +17,7 @@
 ## 자동 생성 자막
 기계가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않은 자막입니다. 많은 사랑이 필요합니다.
 
-(총 287개)
-* E0103. 리얼타임? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0103.txt)**] [**[시청](https://youtu.be/gxwE2cmUiUc)**]
-* E0104. 로봇의 습격 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0104.txt)**] [**[시청](https://youtu.be/iVMoHsYvoG4)**]
-* E0105. 혼자 생각하기 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0105.txt)**] [**[시청](https://youtu.be/MFDz8uBIjhU)**]
+(총 284개)
 * E0107. 근황, 잡담, 조지아테크 MOOC [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0107.txt)**] [**[시청](https://youtu.be/KvZJCTCwR8Y)**]
 * E0109. 난 직설적인 회사가 좋다 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0109.txt)**] [**[시청](https://youtu.be/UvPzP4nKaCw)**]
 * E0110. 게임데이터 저장 및 로딩 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0110.txt)**] [**[시청](https://youtu.be/Ssg_XyZlbvA)**]
@@ -435,7 +432,7 @@
 ## 작업이 끝난 자막
 작업이 끝난 자막이지만 더 이쁘게 고쳐주시면 감사합니다. ^^
 
-(총 225개)
+(총 228개)
 * E0001. 프로그래머가 수학을 못하면 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0001.txt)**] [**[시청](https://youtu.be/yMQncICQFYs)**]
 * E0002. 텍스트 보단 비디오 (개국인사?) [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0002.txt)**] [**[시청](https://youtu.be/wjTL6-lKRIM)**]
 * E0003. 모바일게임이 천하를 평정할까? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0003.txt)**] [**[시청](https://youtu.be/TsmxaxoY7rY)**]
@@ -514,6 +511,9 @@
 * E0100. 100회 기념, 대마법사, 오해를 풀자 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0100.txt)**] [**[시청](https://youtu.be/8LPwmHQi3sQ)**]
 * E0101. 공부잘하는 친구를 사랑하라 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0101.txt)**] [**[시청](https://youtu.be/bQMgInFW8TA)**]
 * E0102. 게임 프로그래머를 관두는 이유 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0102.txt)**] [**[시청](https://youtu.be/0fzg1kL0Y2U)**]
+* E0103. 리얼타임? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0103.txt)**] [**[시청](https://youtu.be/gxwE2cmUiUc)**]
+* E0104. 로봇의 습격 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0104.txt)**] [**[시청](https://youtu.be/iVMoHsYvoG4)**]
+* E0105. 혼자 생각하기 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0105.txt)**] [**[시청](https://youtu.be/MFDz8uBIjhU)**]
 * E0108. 야근과 자기발전 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0108.txt)**] [**[시청](https://youtu.be/UlqNxG95CRE)**]
 * E0111. 좋은 프로그래밍 언어와 기본동작 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0111.txt)**] [**[시청](https://youtu.be/99XbTaCJfhU)**]
 * E0115. 올바른 코드리뷰 프로세스 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0115.txt)**] [**[시청](https://youtu.be/bQqN4G8tRmY)**]
