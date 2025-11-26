@@ -17,10 +17,7 @@
 ## 자동 생성 자막
 기계가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않은 자막입니다. 많은 사랑이 필요합니다.
 
-(총 281개)
-* E0112. 게임 판매량 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0112.txt)**] [**[시청](https://youtu.be/v-5bWkStENI)**]
-* E0113. 캐나다 게임산업 통계 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0113.txt)**] [**[시청](https://youtu.be/uxGijWXQqw0)**]
-* E0117. 이상한 북미게임회사? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0117.txt)**] [**[시청](https://youtu.be/GsJN0DL9taY)**]
+(총 278개)
 * E0119. 진정한 리더 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0119.txt)**] [**[시청](https://youtu.be/I8IvMJh1DzU)**]
 * E0120. 가르치면서 배운다 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0120.txt)**] [**[시청](https://youtu.be/hd6Od-aPCYg)**]
 * E0121. Put Ur Bags Down [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0121.txt)**] [**[시청](https://youtu.be/w8-I3x_q46Q)**]
@@ -429,7 +426,7 @@
 ## 작업이 끝난 자막
 작업이 끝난 자막이지만 더 이쁘게 고쳐주시면 감사합니다. ^^
 
-(총 231개)
+(총 234개)
 * E0001. 프로그래머가 수학을 못하면 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0001.txt)**] [**[시청](https://youtu.be/yMQncICQFYs)**]
 * E0002. 텍스트 보단 비디오 (개국인사?) [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0002.txt)**] [**[시청](https://youtu.be/wjTL6-lKRIM)**]
 * E0003. 모바일게임이 천하를 평정할까? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0003.txt)**] [**[시청](https://youtu.be/TsmxaxoY7rY)**]
@@ -516,7 +513,10 @@
 * E0109. 난 직설적인 회사가 좋다 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0109.txt)**] [**[시청](https://youtu.be/UvPzP4nKaCw)**]
 * E0110. 게임데이터 저장 및 로딩 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0110.txt)**] [**[시청](https://youtu.be/Ssg_XyZlbvA)**]
 * E0111. 좋은 프로그래밍 언어와 기본동작 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0111.txt)**] [**[시청](https://youtu.be/99XbTaCJfhU)**]
+* E0112. 게임 판매량 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0112.txt)**] [**[시청](https://youtu.be/v-5bWkStENI)**]
+* E0113. 캐나다 게임산업 통계 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0113.txt)**] [**[시청](https://youtu.be/uxGijWXQqw0)**]
 * E0115. 올바른 코드리뷰 프로세스 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0115.txt)**] [**[시청](https://youtu.be/bQqN4G8tRmY)**]
+* E0117. 이상한 북미게임회사? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0117.txt)**] [**[시청](https://youtu.be/GsJN0DL9taY)**]
 * E0127. 라이프스타일과 야근 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0127.txt)**] [**[시청](https://youtu.be/sPN9cEI3QNc)**]
 * E0139. 디버깅은 해봤니? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0139.txt)**] [**[시청](https://youtu.be/vkMuFXeUAYA)**]
 * E0141. 쓸데없는 인터페이스 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0141.txt)**] [**[시청](https://youtu.be/tL3sB6qaIoM)**]
