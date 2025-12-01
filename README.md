@@ -17,10 +17,7 @@
 ## 자동 생성 자막
 기계가 자동으로 생성한 뒤, 인간의 손길(?)이 전혀 닿지 않은 자막입니다. 많은 사랑이 필요합니다.
 
-(총 272개)
-* E0132. [게임소개] Project D Online [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0132.txt)**] [**[시청](https://youtu.be/zvdVGrAb5-c)**]
-* E0133. 최고의 머지 프로그램 Araxis Merge Pro [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0133.txt)**] [**[시청](https://youtu.be/sVR_nbwlD_k)**]
-* E0134. 가족(축)같은 회사? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0134.txt)**] [**[시청](https://youtu.be/yfeEljxOa3I)**]
+(총 269개)
 * E0140. 마이크로소프트의 미래 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0140.txt)**] [**[시청](https://youtu.be/LTWJQs7ffeI)**]
 * E0142. 불쌍한 게임기획자 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0142.txt)**] [**[시청](https://youtu.be/jkETXjE4hSs)**]
 * E0144. 과연 모바일이 미래인가? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0144.txt)**] [**[시청](https://youtu.be/9ro-2gn8-L4)**]
@@ -420,7 +417,7 @@
 ## 작업이 끝난 자막
 작업이 끝난 자막이지만 더 이쁘게 고쳐주시면 감사합니다. ^^
 
-(총 240개)
+(총 243개)
 * E0001. 프로그래머가 수학을 못하면 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0001.txt)**] [**[시청](https://youtu.be/yMQncICQFYs)**]
 * E0002. 텍스트 보단 비디오 (개국인사?) [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0002.txt)**] [**[시청](https://youtu.be/wjTL6-lKRIM)**]
 * E0003. 모바일게임이 천하를 평정할까? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0003.txt)**] [**[시청](https://youtu.be/TsmxaxoY7rY)**]
@@ -518,6 +515,9 @@
 * E0127. 라이프스타일과 야근 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0127.txt)**] [**[시청](https://youtu.be/sPN9cEI3QNc)**]
 * E0129. 관찰력 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0129.txt)**] [**[시청](https://youtu.be/9AvcAl_ic3A)**]
 * E0130. 개밥 먹는 프로그래머 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0130.txt)**] [**[시청](https://youtu.be/8I_Gbr3O0ug)**]
+* E0132. [게임소개] Project D Online [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0132.txt)**] [**[시청](https://youtu.be/zvdVGrAb5-c)**]
+* E0133. 최고의 머지 프로그램 Araxis Merge Pro [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0133.txt)**] [**[시청](https://youtu.be/sVR_nbwlD_k)**]
+* E0134. 가족(축)같은 회사? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0134.txt)**] [**[시청](https://youtu.be/yfeEljxOa3I)**]
 * E0139. 디버깅은 해봤니? [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0139.txt)**] [**[시청](https://youtu.be/vkMuFXeUAYA)**]
 * E0141. 쓸데없는 인터페이스 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0141.txt)**] [**[시청](https://youtu.be/tL3sB6qaIoM)**]
 * E0147. C++ 표준에 대한 불만 [**[공헌](https://github.com/popekim/popetv-transcript/edit/main/Data/0147.txt)**] [**[시청](https://youtu.be/lFlJuxxOoW8)**]
